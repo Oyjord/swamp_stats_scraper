@@ -18,10 +18,10 @@ jobs:
           ruby-version: '3.2'
 
       - name: Install dependencies
-        run: gem install nokogiri
+        run: bundle install
 
       - name: Run scraper
-        run: ruby scrape_stats.rb
+        run: bundle exec ruby scrape_stats.rb
 
       - name: Commit changes
         run: |
