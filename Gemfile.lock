@@ -1,18 +1,20 @@
-
 GEM
   remote: https://rubygems.org/
   specs:
-    bigdecimal (3.3.1)
-    csv (3.3.5)
-    fileutils (1.8.0)
+    bigdecimal (3.1.4)
+    csv (3.2.8)
+    fileutils (1.7.0)
     httparty (0.23.2)
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    json (2.15.2)
+    json (2.6.3)
     mini_mime (1.1.5)
     multi_xml (0.7.1)
       bigdecimal (~> 3.1)
+    nokogiri (1.15.5)
+      racc (~> 1.4)
+    racc (1.7.3)
 
 PLATFORMS
   x86_64-linux
@@ -21,6 +23,7 @@ DEPENDENCIES
   fileutils
   httparty
   json
+  nokogiri
 
 BUNDLED WITH
    2.3.27
