@@ -1,0 +1,39 @@
+name: Scrape swamp Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Scrape skaters
+        run: ruby scraper_skaters.rb
+
+      - name: Scrape goalies
+        run: ruby scraper_goalies.rb
+
+      - name: Merge stats
+        run: ruby merge_stats.rb
+
+      - name: Commit all output files and Gemfile.lock
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output/ Gemfile.lock
+          git commit -m "Update swamp stats and Gemfile.lock"
+          git push
