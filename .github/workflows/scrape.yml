@@ -1,0 +1,32 @@
+name: Scrape Swamp Stats
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # 6 AM PT daily
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Install dependencies
+        run: gem install nokogiri
+
+      - name: Run scraper
+        run: ruby scrape_stats.rb
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/swamp_stats.json
+          git diff --cached --quiet || git commit -m "🔄 Update swamp stats"
+          git push
