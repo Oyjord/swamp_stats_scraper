@@ -1,4 +1,4 @@
-name: Scrape swamp Stats
+name: Scrape Swamp Stats
 
 on:
   schedule:
@@ -21,19 +21,13 @@ jobs:
       - name: Install dependencies
         run: bundle install
 
-      - name: Scrape skaters
-        run: ruby scraper_skaters.rb
+      - name: Run scraper
+        run: ruby scraper.rb
 
-      - name: Scrape goalies
-        run: ruby scraper_goalies.rb
-
-      - name: Merge stats
-        run: ruby merge_stats.rb
-
-      - name: Commit all output files and Gemfile.lock
+      - name: Commit output and Gemfile.lock
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add output/ Gemfile.lock
+          git add output/swamp_stats.json Gemfile.lock
           git commit -m "Update swamp stats and Gemfile.lock"
           git push
