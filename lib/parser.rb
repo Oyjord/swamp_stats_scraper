@@ -7,8 +7,8 @@ module Parser
     goalies = []
 
     doc.css('section').each do |section|
-      heading = section.at_css('h2')&.text&.strip&.downcase
-      next unless heading
+      heading = section.at_css('h2, h3, h4')&.text&.strip&.downcase
+      warn "🧪 Found section heading: #{heading}" if heading
 
       table = section.at_css('table')
       next unless table
@@ -23,14 +23,44 @@ module Parser
         player = Hash[headers.zip(cells)]
         player['name'] = player.delete('player') || player.delete('name')
 
-        if heading.include?('goalie')
-          goalies << player
+        if heading&.include?('goalie')
+          goalies << normalize_goalie(player)
         else
-          skaters << player
+          skaters << normalize_skater(player)
         end
       end
     end
 
     { "skaters" => skaters, "goalies" => goalies }
+  end
+
+  def self.normalize_skater(player)
+    {
+      "name" => clean_name(player["name"]),
+      "gp" => player["gp"]&.to_i,
+      "g" => player["g"]&.to_i,
+      "a" => player["a"]&.to_i,
+      "pts" => player["pts"]&.to_i,
+      "plus_minus" => player["+/-"]&.to_i,
+      "pim" => player["pim"]&.to_i
+    }
+  end
+
+  def self.normalize_goalie(player)
+    {
+      "name" => clean_name(player["name"]),
+      "gp" => player["gp"]&.to_i,
+      "w" => player["w"]&.to_i,
+      "l" => player["l"]&.to_i,
+      "otl" => player["otl"]&.to_i,
+      "gaa" => player["gaa"]&.to_f,
+      "sv_percent" => player["sv%"]&.to_f,
+      "min" => player["min"]&.to_i,
+      "ga" => player["ga"]&.to_i
+    }
+  end
+
+  def self.clean_name(raw)
+    raw.to_s.gsub(/\s+#\d+/, '').strip
   end
 end
