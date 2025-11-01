@@ -6,6 +6,7 @@ module Parser
     skaters = []
     goalies = []
 
+    # 🧭 Primary scan: section-based parsing
     doc.css('section').each do |section|
       heading = section.at_css('h2, h3, h4')&.text&.strip&.downcase
       warn "🧪 Found section heading: #{heading}" if heading
@@ -23,14 +24,31 @@ module Parser
         player = Hash[headers.zip(cells)]
         player['name'] = player.delete('player') || player.delete('name')
 
-       if heading&.match?(/goalie|goalies|goaltending/i)
-  goalie = normalize_goalie(player)
-  goalies << goalie if goalie
-else
-  skater = normalize_skater(player)
-  skaters << skater if skater
-end
+        if heading&.match?(/goalie|goalies|goaltending/i)
+          goalie = normalize_goalie(player)
+          goalies << goalie if goalie
+        else
+          skater = normalize_skater(player)
+          skaters << skater if skater
+        end
+      end
+    end
 
+    # 🛠 Fallback: scan all tables for goalie-like headers
+    doc.css('table').each do |table|
+      headers = table.css('thead tr th').map { |th| th.text.strip.downcase }
+      next unless headers.include?("sv%") && headers.include?("gaa")
+
+      rows = table.css('tbody tr')
+      rows.each do |row|
+        cells = row.css('td').map { |td| td.text.strip }
+        next if cells.empty?
+
+        player = Hash[headers.zip(cells)]
+        player['name'] = player.delete('player') || player.delete('name')
+        goalie = normalize_goalie(player)
+        goalies << goalie if goalie
+        warn "🧪 Fallback goalie detected: #{player['name']}"
       end
     end
 
@@ -38,19 +56,18 @@ end
   end
 
   def self.normalize_skater(player)
-  return nil if player["gp"].nil? || player["gp"].strip.empty?
+    return nil if player["gp"].nil? || player["gp"].strip.empty?
 
-  {
-    "name" => clean_name(player["name"]),
-    "gp" => player["gp"]&.to_i,
-    "g" => player["g"]&.to_i,
-    "a" => player["a"]&.to_i,
-    "pts" => player["pts"]&.to_i,
-    "plus_minus" => player["+/-"]&.to_i,
-    "pim" => player["pim"]&.to_i
-  }
-end
-
+    {
+      "name" => clean_name(player["name"]),
+      "gp" => player["gp"]&.to_i,
+      "g" => player["g"]&.to_i,
+      "a" => player["a"]&.to_i,
+      "pts" => player["pts"]&.to_i,
+      "plus_minus" => player["+/-"]&.to_i,
+      "pim" => player["pim"]&.to_i
+    }
+  end
 
   def self.normalize_goalie(player)
     {
