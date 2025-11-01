@@ -7,7 +7,7 @@
       "a": 1,
       "pts": 4,
       "plus_minus": -2,
-      "pim": 9
+      "pim": 11
     },
     {
       "name": "Tate Singleton",
@@ -19,31 +19,31 @@
       "pim": 5
     },
     {
+      "name": "Carter Savoie",
+      "gp": 4,
+      "g": 2,
+      "a": 1,
+      "pts": 3,
+      "plus_minus": -2,
+      "pim": 0
+    },
+    {
       "name": "Keaton Mastrodonato",
       "gp": 6,
       "g": 1,
       "a": 2,
       "pts": 3,
-      "plus_minus": -4,
+      "plus_minus": -3,
       "pim": 0
     },
     {
       "name": "Austin Saint",
-      "gp": 3,
+      "gp": 4,
       "g": 2,
       "a": 0,
       "pts": 2,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 2
-    },
-    {
-      "name": "Carter Savoie",
-      "gp": 4,
-      "g": 1,
-      "a": 1,
-      "pts": 2,
-      "plus_minus": -3,
-      "pim": 0
     },
     {
       "name": "Ryan O'Hara",
@@ -51,7 +51,7 @@
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 8
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 5,
+      "gp": 6,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -92,11 +92,11 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 5,
+      "gp": 6,
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 0
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 4,
+      "gp": 5,
       "g": 0,
       "a": 0,
       "pts": 0,
