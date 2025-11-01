@@ -1,6 +1,15 @@
 {
   "skaters": [
     {
+      "name": "Tate Singleton",
+      "gp": 6,
+      "g": 1,
+      "a": 4,
+      "pts": 5,
+      "plus_minus": -2,
+      "pim": 5
+    },
+    {
       "name": "Cam Hausinger",
       "gp": 6,
       "g": 3,
@@ -8,15 +17,6 @@
       "pts": 4,
       "plus_minus": -2,
       "pim": 11
-    },
-    {
-      "name": "Tate Singleton",
-      "gp": 6,
-      "g": 1,
-      "a": 3,
-      "pts": 4,
-      "plus_minus": -2,
-      "pim": 5
     },
     {
       "name": "Carter Savoie",
