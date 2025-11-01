@@ -10,5 +10,5 @@ doc = Nokogiri::HTML(html)
 
 stats = Parser.extract_stats(doc)
 
-File.write('data/swamp_stats.json', JSON.pretty_generate(stats))
+File.write('output/swamp_stats.json', JSON.pretty_generate(stats))
 puts "✅ Wrote #{stats["skaters"].size} skaters and #{stats["goalies"].size} goalies to data/swamp_stats.json"
