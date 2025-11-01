@@ -23,7 +23,7 @@ module Parser
         player = Hash[headers.zip(cells)]
         player['name'] = player.delete('player') || player.delete('name')
 
-        if heading&.include?('goalie')
+       if heading&.match?(/goalie|goalies|goaltending/i)
   goalie = normalize_goalie(player)
   goalies << goalie if goalie
 else
