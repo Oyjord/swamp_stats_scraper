@@ -128,6 +128,38 @@
     }
   ],
   "goalies": [
-
+    {
+      "name": "Isaiah Saville",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "otl": 0,
+      "gaa": 2.01,
+      "sv_percent": 0.931,
+      "min": 119,
+      "ga": 4
+    },
+    {
+      "name": "Mattias Sholl",
+      "gp": 2,
+      "w": 0,
+      "l": 2,
+      "otl": 0,
+      "gaa": 3.09,
+      "sv_percent": 0.913,
+      "min": 116,
+      "ga": 6
+    },
+    {
+      "name": "Pierce Charleson",
+      "gp": 2,
+      "w": 1,
+      "l": 1,
+      "otl": 0,
+      "gaa": 3.81,
+      "sv_percent": 0.833,
+      "min": 126,
+      "ga": 8
+    }
   ]
 }
