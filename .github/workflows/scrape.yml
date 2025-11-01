@@ -27,6 +27,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/swamp_stats.json
+          git add output/swamp_stats.json
           git diff --cached --quiet || git commit -m "🔄 Update swamp stats"
           git push
