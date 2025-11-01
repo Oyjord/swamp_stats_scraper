@@ -1,52 +1,61 @@
 {
   "skaters": [
     {
-      "name": "Cam Hausinger\n                                \n                                #38",
-      "gp": 5,
+      "name": "Cam Hausinger",
+      "gp": 6,
       "g": 3,
       "a": 1,
       "pts": 4,
       "plus_minus": -2,
-      "pim": 4
+      "pim": 11
     },
     {
-      "name": "Tate Singleton\n                                \n                                #9",
-      "gp": 5,
+      "name": "Tate Singleton",
+      "gp": 6,
       "g": 1,
-      "a": 2,
+      "a": 3,
+      "pts": 4,
+      "plus_minus": -2,
+      "pim": 5
+    },
+    {
+      "name": "Carter Savoie",
+      "gp": 4,
+      "g": 2,
+      "a": 1,
       "pts": 3,
       "plus_minus": -2,
       "pim": 0
     },
     {
-      "name": "Austin Saint\n                                \n                                #91",
-      "gp": 3,
+      "name": "Keaton Mastrodonato",
+      "gp": 6,
+      "g": 1,
+      "a": 2,
+      "pts": 3,
+      "plus_minus": -3,
+      "pim": 0
+    },
+    {
+      "name": "Austin Saint",
+      "gp": 4,
       "g": 2,
       "a": 0,
       "pts": 2,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 2
     },
     {
-      "name": "Keaton Mastrodonato\n                                \n                                #8",
-      "gp": 5,
-      "g": 1,
-      "a": 1,
-      "pts": 2,
-      "plus_minus": -5,
-      "pim": 0
-    },
-    {
-      "name": "Ryan O'Hara\n                                \n                                #20",
-      "gp": 5,
+      "name": "Ryan O'Hara",
+      "gp": 6,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": -2,
-      "pim": 6
+      "plus_minus": -3,
+      "pim": 8
     },
     {
-      "name": "Stepan Timofeyev\n                                \n                                #22",
+      "name": "Stepan Timofeyev",
       "gp": 3,
       "g": 1,
       "a": 0,
@@ -55,8 +64,8 @@
       "pim": 0
     },
     {
-      "name": "Kenta Isogai\n                                \n                                #86",
-      "gp": 5,
+      "name": "Kenta Isogai",
+      "gp": 6,
       "g": 1,
       "a": 0,
       "pts": 1,
@@ -64,17 +73,17 @@
       "pim": 0
     },
     {
-      "name": "Patrick Polino\n                                \n                                #72",
-      "gp": 5,
+      "name": "Patrick Polino",
+      "gp": 6,
       "g": 1,
       "a": 0,
       "pts": 1,
-      "plus_minus": -4,
+      "plus_minus": -3,
       "pim": 0
     },
     {
-      "name": "Ryan O'Reilly\n                                \n                                #19",
-      "gp": 5,
+      "name": "Ryan O'Reilly",
+      "gp": 6,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -82,25 +91,25 @@
       "pim": 2
     },
     {
-      "name": "Brent Pedersen\n                                \n                                #10",
-      "gp": 5,
+      "name": "Brent Pedersen",
+      "gp": 6,
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 0
     },
     {
-      "name": "Hudson Schandor\n                                \n                                #17",
-      "gp": 5,
+      "name": "Hudson Schandor",
+      "gp": 6,
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": 2,
+      "plus_minus": 3,
       "pim": 2
     },
     {
-      "name": "Ben Poisson\n                                \n                                #12",
+      "name": "Ben Poisson",
       "gp": 1,
       "g": 0,
       "a": 0,
@@ -109,17 +118,8 @@
       "pim": 0
     },
     {
-      "name": "Carter Savoie\n                                \n                                #27",
-      "gp": 3,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": -4,
-      "pim": 0
-    },
-    {
-      "name": "Jack Brackett\n                                \n                                #24",
-      "gp": 4,
+      "name": "Jack Brackett",
+      "gp": 5,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -127,102 +127,115 @@
       "pim": 2
     },
     {
-      "name": "Jake Murray\n                                \n                                #5",
-      "gp": 5,
-      "g": 0,
-      "a": 4,
-      "pts": 4,
-      "plus_minus": -1,
-      "pim": 0
+      "name": "Keaton Mastrodonato",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
     },
     {
-      "name": "Josh Atkinson\n                                \n                                #59",
-      "gp": 5,
-      "g": 1,
-      "a": 1,
-      "pts": 2,
-      "plus_minus": -2,
-      "pim": 0
+      "name": "Tate Singleton",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
     },
     {
-      "name": "Jacob Modry\n                                \n                                #44",
-      "gp": 3,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 2,
-      "pim": 0
+      "name": "Brent Pedersen",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
     },
     {
-      "name": "Tristan De Jong\n                                \n                                #7",
-      "gp": 5,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": -1,
-      "pim": 7
+      "name": "Ben Poisson",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
     },
     {
-      "name": "Tim Lovell\n                                \n                                #43",
-      "gp": 5,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": -4,
-      "pim": 2
+      "name": "Hudson Schandor",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
     },
     {
-      "name": "Jordan Power\n                                \n                                #13",
-      "gp": 5,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": -4,
-      "pim": 9
+      "name": "Ryan O'Reilly",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
     },
     {
-      "name": "Parker Berge\n                                \n                                #40",
-      "gp": 2,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": -1,
-      "pim": 0
+      "name": "Ryan O'Hara",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
+    },
+    {
+      "name": "Jack Brackett",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
+    },
+    {
+      "name": "Dante Sheriff",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
+    },
+    {
+      "name": "Cam Hausinger",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
+    },
+    {
+      "name": "Kenta Isogai",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
+    },
+    {
+      "name": "Austin Saint",
+      "gp": null,
+      "g": null,
+      "a": null,
+      "pts": null,
+      "plus_minus": null,
+      "pim": null
     }
   ],
   "goalies": [
-    {
-      "name": "Isaiah Saville\n    \n            #31",
-      "gp": 1,
-      "w": 0,
-      "gaa": 2.03,
-      "sv_percent": 0.917,
-      "l": 1,
-      "otl": 0,
-      "min": 24,
-      "ga": 2
-    },
-    {
-      "name": "Mattias Sholl\n    \n            #30",
-      "gp": 2,
-      "w": 0,
-      "gaa": 3.09,
-      "sv_percent": 0.913,
-      "l": 2,
-      "otl": 0,
-      "min": 69,
-      "ga": 6
-    },
-    {
-      "name": "Pierce Charleson\n    \n            #39",
-      "gp": 2,
-      "w": 1,
-      "gaa": 3.81,
-      "sv_percent": 0.833,
-      "l": 1,
-      "otl": 0,
-      "min": 48,
-      "ga": 8
-    }
+
   ]
 }
