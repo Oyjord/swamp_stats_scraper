@@ -24,10 +24,13 @@ module Parser
         player['name'] = player.delete('player') || player.delete('name')
 
         if heading&.include?('goalie')
-          goalies << normalize_goalie(player)
-        else
-          skaters << normalize_skater(player)
-        end
+  goalie = normalize_goalie(player)
+  goalies << goalie if goalie
+else
+  skater = normalize_skater(player)
+  skaters << skater if skater
+end
+
       end
     end
 
@@ -35,16 +38,19 @@ module Parser
   end
 
   def self.normalize_skater(player)
-    {
-      "name" => clean_name(player["name"]),
-      "gp" => player["gp"]&.to_i,
-      "g" => player["g"]&.to_i,
-      "a" => player["a"]&.to_i,
-      "pts" => player["pts"]&.to_i,
-      "plus_minus" => player["+/-"]&.to_i,
-      "pim" => player["pim"]&.to_i
-    }
-  end
+  return nil if player["gp"].nil? || player["gp"].strip.empty?
+
+  {
+    "name" => clean_name(player["name"]),
+    "gp" => player["gp"]&.to_i,
+    "g" => player["g"]&.to_i,
+    "a" => player["a"]&.to_i,
+    "pts" => player["pts"]&.to_i,
+    "plus_minus" => player["+/-"]&.to_i,
+    "pim" => player["pim"]&.to_i
+  }
+end
+
 
   def self.normalize_goalie(player)
     {
