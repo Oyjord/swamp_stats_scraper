@@ -82,15 +82,6 @@
       "pim": 0
     },
     {
-      "name": "Ryan O'Reilly",
-      "gp": 6,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": -3,
-      "pim": 2
-    },
-    {
       "name": "Brent Pedersen",
       "gp": 6,
       "g": 0,
@@ -107,6 +98,15 @@
       "pts": 1,
       "plus_minus": 3,
       "pim": 2
+    },
+    {
+      "name": "Ryan O'Reilly",
+      "gp": 7,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": -3,
+      "pim": 4
     },
     {
       "name": "Ben Poisson",
@@ -141,7 +141,7 @@
     },
     {
       "name": "Mattias Sholl",
-      "gp": 2,
+      "gp": 3,
       "w": 0,
       "l": 2,
       "otl": 0,
