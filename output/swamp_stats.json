@@ -2,12 +2,12 @@
   "skaters": [
     {
       "name": "Tate Singleton",
-      "gp": 6,
-      "g": 1,
-      "a": 4,
-      "pts": 5,
-      "plus_minus": -2,
-      "pim": 5
+      "gp": 7,
+      "g": 2,
+      "a": 6,
+      "pts": 8,
+      "plus_minus": 0,
+      "pim": 7
     },
     {
       "name": "Cam Hausinger",
@@ -20,38 +20,47 @@
     },
     {
       "name": "Carter Savoie",
-      "gp": 4,
+      "gp": 5,
       "g": 2,
-      "a": 1,
-      "pts": 3,
-      "plus_minus": -2,
+      "a": 2,
+      "pts": 4,
+      "plus_minus": 0,
       "pim": 0
     },
     {
       "name": "Keaton Mastrodonato",
-      "gp": 6,
-      "g": 1,
+      "gp": 7,
+      "g": 2,
       "a": 2,
+      "pts": 4,
+      "plus_minus": -2,
+      "pim": 0
+    },
+    {
+      "name": "Patrick Polino",
+      "gp": 7,
+      "g": 3,
+      "a": 0,
       "pts": 3,
-      "plus_minus": -3,
+      "plus_minus": -1,
       "pim": 0
     },
     {
       "name": "Austin Saint",
-      "gp": 4,
+      "gp": 5,
       "g": 2,
-      "a": 0,
-      "pts": 2,
-      "plus_minus": 0,
+      "a": 1,
+      "pts": 3,
+      "plus_minus": 1,
       "pim": 2
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 6,
+      "gp": 7,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": -3,
+      "plus_minus": -2,
       "pim": 8
     },
     {
@@ -73,15 +82,6 @@
       "pim": 0
     },
     {
-      "name": "Patrick Polino",
-      "gp": 6,
-      "g": 1,
-      "a": 0,
-      "pts": 1,
-      "plus_minus": -3,
-      "pim": 0
-    },
-    {
       "name": "Brent Pedersen",
       "gp": 6,
       "g": 0,
@@ -91,15 +91,6 @@
       "pim": 0
     },
     {
-      "name": "Hudson Schandor",
-      "gp": 6,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 3,
-      "pim": 2
-    },
-    {
       "name": "Ryan O'Reilly",
       "gp": 7,
       "g": 0,
@@ -107,6 +98,15 @@
       "pts": 1,
       "plus_minus": -3,
       "pim": 4
+    },
+    {
+      "name": "Hudson Schandor",
+      "gp": 7,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 5,
+      "pim": 2
     },
     {
       "name": "Ben Poisson",
@@ -145,9 +145,9 @@
       "w": 0,
       "l": 2,
       "otl": 0,
-      "gaa": 3.09,
-      "sv_percent": 0.913,
-      "min": 116,
+      "gaa": 2.05,
+      "sv_percent": 0.937,
+      "min": 176,
       "ga": 6
     },
     {
