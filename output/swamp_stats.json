@@ -2,11 +2,11 @@
   "skaters": [
     {
       "name": "Tate Singleton",
-      "gp": 8,
+      "gp": 9,
       "g": 3,
-      "a": 5,
-      "pts": 8,
-      "plus_minus": 0,
+      "a": 6,
+      "pts": 9,
+      "plus_minus": 1,
       "pim": 9
     },
     {
@@ -20,11 +20,11 @@
     },
     {
       "name": "Carter Savoie",
-      "gp": 6,
+      "gp": 7,
       "g": 3,
       "a": 2,
       "pts": 5,
-      "plus_minus": 0,
+      "plus_minus": 1,
       "pim": 2
     },
     {
@@ -55,6 +55,15 @@
       "pim": 2
     },
     {
+      "name": "Hudson Schandor",
+      "gp": 9,
+      "g": 0,
+      "a": 3,
+      "pts": 3,
+      "plus_minus": 8,
+      "pim": 4
+    },
+    {
       "name": "Kenta Isogai",
       "gp": 8,
       "g": 1,
@@ -71,15 +80,6 @@
       "pts": 2,
       "plus_minus": -2,
       "pim": 8
-    },
-    {
-      "name": "Hudson Schandor",
-      "gp": 8,
-      "g": 0,
-      "a": 2,
-      "pts": 2,
-      "plus_minus": 7,
-      "pim": 4
     },
     {
       "name": "Stepan Timofeyev",
@@ -130,13 +130,13 @@
   "goalies": [
     {
       "name": "Isaiah Saville",
-      "gp": 3,
+      "gp": 4,
       "w": 2,
       "l": 1,
       "otl": 0,
-      "gaa": 1.67,
-      "sv_percent": 0.946,
-      "min": 179,
+      "gaa": 1.51,
+      "sv_percent": 0.95,
+      "min": 199,
       "ga": 5
     },
     {
