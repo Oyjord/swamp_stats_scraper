@@ -10,31 +10,31 @@
       "pim": 9
     },
     {
-      "name": "Cam Hausinger",
-      "gp": 8,
-      "g": 4,
-      "a": 1,
-      "pts": 5,
-      "plus_minus": -1,
-      "pim": 13
-    },
-    {
       "name": "Carter Savoie",
       "gp": 7,
-      "g": 3,
+      "g": 4,
       "a": 2,
-      "pts": 5,
-      "plus_minus": 1,
+      "pts": 6,
+      "plus_minus": 2,
       "pim": 2
     },
     {
       "name": "Keaton Mastrodonato",
       "gp": 9,
       "g": 2,
-      "a": 3,
-      "pts": 5,
+      "a": 4,
+      "pts": 6,
       "plus_minus": -1,
       "pim": 0
+    },
+    {
+      "name": "Cam Hausinger",
+      "gp": 9,
+      "g": 4,
+      "a": 1,
+      "pts": 5,
+      "plus_minus": -1,
+      "pim": 13
     },
     {
       "name": "Patrick Polino",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Austin Saint",
-      "gp": 6,
+      "gp": 7,
       "g": 2,
       "a": 1,
       "pts": 3,
@@ -74,11 +74,11 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 8,
+      "gp": 9,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 8
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 8,
+      "gp": 9,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -128,7 +128,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 7,
+      "gp": 8,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -140,13 +140,13 @@
     {
       "name": "Isaiah Saville",
       "gp": 4,
-      "w": 2,
+      "w": 3,
       "l": 1,
       "otl": 0,
-      "gaa": 1.51,
-      "sv_percent": 0.95,
-      "min": 199,
-      "ga": 5
+      "gaa": 1.76,
+      "sv_percent": 0.942,
+      "min": 239,
+      "ga": 7
     },
     {
       "name": "Mattias Sholl",
