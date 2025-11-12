@@ -52,7 +52,7 @@
       "a": 1,
       "pts": 3,
       "plus_minus": 0,
-      "pim": 2
+      "pim": 7
     },
     {
       "name": "Hudson Schandor",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 9,
+      "gp": 10,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -100,15 +100,6 @@
       "pim": 0
     },
     {
-      "name": "Ryan O'Reilly",
-      "gp": 9,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": -3,
-      "pim": 4
-    },
-    {
       "name": "Brent Pedersen",
       "gp": 9,
       "g": 0,
@@ -116,6 +107,15 @@
       "pts": 1,
       "plus_minus": -2,
       "pim": 0
+    },
+    {
+      "name": "Ryan O'Reilly",
+      "gp": 10,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": -3,
+      "pim": 4
     },
     {
       "name": "Ben Poisson",
@@ -143,16 +143,16 @@
       "w": 1,
       "l": 2,
       "otl": 0,
-      "gaa": 2.05,
-      "sv_percent": 0.937,
-      "min": 176,
+      "gaa": 1.84,
+      "sv_percent": 0.939,
+      "min": 196,
       "ga": 6
     },
     {
       "name": "Isaiah Saville",
       "gp": 5,
       "w": 3,
-      "l": 1,
+      "l": 2,
       "otl": 0,
       "gaa": 2.59,
       "sv_percent": 0.925,
