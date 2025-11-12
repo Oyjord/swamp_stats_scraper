@@ -139,13 +139,13 @@
   "goalies": [
     {
       "name": "Isaiah Saville",
-      "gp": 4,
+      "gp": 5,
       "w": 3,
       "l": 1,
       "otl": 0,
-      "gaa": 1.76,
-      "sv_percent": 0.942,
-      "min": 239,
+      "gaa": 1.7,
+      "sv_percent": 0.943,
+      "min": 248,
       "ga": 7
     },
     {
