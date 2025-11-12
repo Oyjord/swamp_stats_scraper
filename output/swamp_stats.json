@@ -2,29 +2,29 @@
   "skaters": [
     {
       "name": "Tate Singleton",
-      "gp": 9,
+      "gp": 10,
       "g": 4,
       "a": 6,
       "pts": 10,
-      "plus_minus": 2,
+      "plus_minus": 0,
       "pim": 9
     },
     {
       "name": "Carter Savoie",
-      "gp": 7,
+      "gp": 8,
       "g": 4,
       "a": 2,
       "pts": 6,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 2
     },
     {
       "name": "Keaton Mastrodonato",
-      "gp": 9,
+      "gp": 10,
       "g": 2,
       "a": 4,
       "pts": 6,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 0
     },
     {
@@ -38,30 +38,30 @@
     },
     {
       "name": "Patrick Polino",
-      "gp": 9,
+      "gp": 10,
       "g": 3,
       "a": 0,
+      "pts": 3,
+      "plus_minus": -2,
+      "pim": 2
+    },
+    {
+      "name": "Austin Saint",
+      "gp": 8,
+      "g": 2,
+      "a": 1,
       "pts": 3,
       "plus_minus": 0,
       "pim": 2
     },
     {
-      "name": "Austin Saint",
-      "gp": 7,
-      "g": 2,
-      "a": 1,
-      "pts": 3,
-      "plus_minus": 1,
-      "pim": 2
-    },
-    {
       "name": "Hudson Schandor",
-      "gp": 9,
+      "gp": 10,
       "g": 0,
       "a": 3,
       "pts": 3,
-      "plus_minus": 7,
-      "pim": 4
+      "plus_minus": 6,
+      "pim": 8
     },
     {
       "name": "Kenta Isogai",
@@ -92,11 +92,11 @@
     },
     {
       "name": "Dante Sheriff",
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": 1,
+      "plus_minus": -1,
       "pim": 0
     },
     {
@@ -119,35 +119,24 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 1,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": 0,
-      "pim": 0
-    },
-    {
-      "name": "Jack Brackett",
-      "gp": 8,
+      "gp": 2,
       "g": 0,
       "a": 0,
       "pts": 0,
       "plus_minus": -1,
+      "pim": 0
+    },
+    {
+      "name": "Jack Brackett",
+      "gp": 9,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": -2,
       "pim": 2
     }
   ],
   "goalies": [
-    {
-      "name": "Isaiah Saville",
-      "gp": 5,
-      "w": 3,
-      "l": 1,
-      "otl": 0,
-      "gaa": 1.7,
-      "sv_percent": 0.943,
-      "min": 248,
-      "ga": 7
-    },
     {
       "name": "Mattias Sholl",
       "gp": 3,
@@ -158,6 +147,17 @@
       "sv_percent": 0.937,
       "min": 176,
       "ga": 6
+    },
+    {
+      "name": "Isaiah Saville",
+      "gp": 5,
+      "w": 3,
+      "l": 1,
+      "otl": 0,
+      "gaa": 2.07,
+      "sv_percent": 0.937,
+      "min": 261,
+      "ga": 9
     },
     {
       "name": "Pierce Charleson",
