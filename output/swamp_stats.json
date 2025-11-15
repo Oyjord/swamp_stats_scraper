@@ -47,7 +47,7 @@
     },
     {
       "name": "Austin Saint",
-      "gp": 8,
+      "gp": 9,
       "g": 2,
       "a": 1,
       "pts": 3,
@@ -65,7 +65,7 @@
     },
     {
       "name": "Hudson Schandor",
-      "gp": 10,
+      "gp": 11,
       "g": 0,
       "a": 3,
       "pts": 3,
@@ -119,7 +119,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 2,
+      "gp": 3,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -128,7 +128,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 9,
+      "gp": 10,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -141,12 +141,12 @@
       "name": "Mattias Sholl",
       "gp": 5,
       "w": 1,
-      "l": 2,
+      "l": 3,
       "otl": 0,
-      "gaa": 1.84,
-      "sv_percent": 0.939,
-      "min": 196,
-      "ga": 6
+      "gaa": 2.11,
+      "sv_percent": 0.932,
+      "min": 255,
+      "ga": 9
     },
     {
       "name": "Isaiah Saville",
