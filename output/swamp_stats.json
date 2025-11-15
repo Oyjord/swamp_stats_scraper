@@ -11,20 +11,20 @@
     },
     {
       "name": "Carter Savoie",
-      "gp": 9,
+      "gp": 10,
       "g": 4,
       "a": 3,
       "pts": 7,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 6
     },
     {
       "name": "Keaton Mastrodonato",
-      "gp": 11,
+      "gp": 12,
       "g": 2,
       "a": 4,
       "pts": 6,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 0
     },
     {
@@ -37,12 +37,21 @@
       "pim": 22
     },
     {
-      "name": "Patrick Polino",
-      "gp": 11,
+      "name": "Ryan O'Reilly",
+      "gp": 12,
       "g": 3,
       "a": 1,
       "pts": 4,
-      "plus_minus": -3,
+      "plus_minus": -2,
+      "pim": 4
+    },
+    {
+      "name": "Patrick Polino",
+      "gp": 12,
+      "g": 3,
+      "a": 1,
+      "pts": 4,
+      "plus_minus": -4,
       "pim": 2
     },
     {
@@ -53,15 +62,6 @@
       "pts": 3,
       "plus_minus": 0,
       "pim": 7
-    },
-    {
-      "name": "Ryan O'Reilly",
-      "gp": 11,
-      "g": 2,
-      "a": 1,
-      "pts": 3,
-      "plus_minus": -3,
-      "pim": 4
     },
     {
       "name": "Hudson Schandor",
@@ -92,11 +92,11 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 11,
+      "gp": 12,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": -4,
+      "plus_minus": -3,
       "pim": 8
     },
     {
@@ -110,11 +110,11 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 10,
+      "gp": 11,
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": -3,
+      "plus_minus": -2,
       "pim": 0
     },
     {
@@ -134,6 +134,78 @@
       "pts": 0,
       "plus_minus": -2,
       "pim": 2
+    },
+    {
+      "name": "Tim Lovell",
+      "gp": 12,
+      "g": 1,
+      "a": 5,
+      "pts": 6,
+      "plus_minus": -3,
+      "pim": 6
+    },
+    {
+      "name": "Parker Berge",
+      "gp": 9,
+      "g": 1,
+      "a": 4,
+      "pts": 5,
+      "plus_minus": 2,
+      "pim": 4
+    },
+    {
+      "name": "Josh Atkinson",
+      "gp": 11,
+      "g": 1,
+      "a": 3,
+      "pts": 4,
+      "plus_minus": -5,
+      "pim": 8
+    },
+    {
+      "name": "Tristan De Jong",
+      "gp": 11,
+      "g": 1,
+      "a": 3,
+      "pts": 4,
+      "plus_minus": 0,
+      "pim": 16
+    },
+    {
+      "name": "Jake Murray",
+      "gp": 9,
+      "g": 0,
+      "a": 4,
+      "pts": 4,
+      "plus_minus": 0,
+      "pim": 0
+    },
+    {
+      "name": "Jacob Modry",
+      "gp": 3,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 2,
+      "pim": 0
+    },
+    {
+      "name": "Jordan Power",
+      "gp": 10,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": -4,
+      "pim": 11
+    },
+    {
+      "name": "Tim Rego",
+      "gp": 3,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": 1,
+      "pim": 0
     }
   ],
   "goalies": [
