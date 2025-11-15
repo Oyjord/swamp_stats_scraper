@@ -34,7 +34,7 @@
       "a": 1,
       "pts": 5,
       "plus_minus": 0,
-      "pim": 22
+      "pim": 26
     },
     {
       "name": "Ryan O'Reilly",
@@ -97,7 +97,7 @@
       "a": 2,
       "pts": 2,
       "plus_minus": -3,
-      "pim": 8
+      "pim": 10
     },
     {
       "name": "Stepan Timofeyev",
@@ -237,10 +237,10 @@
       "w": 1,
       "l": 1,
       "otl": 0,
-      "gaa": 3.81,
-      "sv_percent": 0.833,
-      "min": 126,
-      "ga": 8
+      "gaa": 2.92,
+      "sv_percent": 0.88,
+      "min": 185,
+      "ga": 9
     }
   ]
 }
