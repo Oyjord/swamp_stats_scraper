@@ -29,12 +29,12 @@
     },
     {
       "name": "Cam Hausinger",
-      "gp": 11,
+      "gp": 12,
       "g": 4,
       "a": 1,
       "pts": 5,
-      "plus_minus": -1,
-      "pim": 20
+      "plus_minus": 0,
+      "pim": 22
     },
     {
       "name": "Patrick Polino",
@@ -65,11 +65,11 @@
     },
     {
       "name": "Hudson Schandor",
-      "gp": 11,
+      "gp": 12,
       "g": 0,
       "a": 3,
       "pts": 3,
-      "plus_minus": 6,
+      "plus_minus": 7,
       "pim": 8
     },
     {
@@ -79,6 +79,15 @@
       "a": 1,
       "pts": 2,
       "plus_minus": -1,
+      "pim": 0
+    },
+    {
+      "name": "Dante Sheriff",
+      "gp": 4,
+      "g": 0,
+      "a": 2,
+      "pts": 2,
+      "plus_minus": 0,
       "pim": 0
     },
     {
@@ -97,15 +106,6 @@
       "a": 0,
       "pts": 1,
       "plus_minus": -2,
-      "pim": 0
-    },
-    {
-      "name": "Dante Sheriff",
-      "gp": 3,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": -1,
       "pim": 0
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Pierce Charleson",
-      "gp": 2,
+      "gp": 3,
       "w": 1,
       "l": 1,
       "otl": 0,
