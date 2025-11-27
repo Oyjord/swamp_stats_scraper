@@ -10,22 +10,22 @@
       "pim": 11
     },
     {
+      "name": "Keaton Mastrodonato",
+      "gp": 15,
+      "g": 3,
+      "a": 7,
+      "pts": 10,
+      "plus_minus": -3,
+      "pim": 0
+    },
+    {
       "name": "Carter Savoie",
       "gp": 13,
       "g": 5,
       "a": 4,
       "pts": 9,
-      "plus_minus": 0,
+      "plus_minus": 2,
       "pim": 8
-    },
-    {
-      "name": "Keaton Mastrodonato",
-      "gp": 15,
-      "g": 2,
-      "a": 6,
-      "pts": 8,
-      "plus_minus": -5,
-      "pim": 0
     },
     {
       "name": "Cam Hausinger",
@@ -40,10 +40,19 @@
       "name": "Ryan O'Reilly",
       "gp": 15,
       "g": 3,
-      "a": 3,
-      "pts": 6,
+      "a": 4,
+      "pts": 7,
       "plus_minus": -1,
       "pim": 11
+    },
+    {
+      "name": "Patrick Polino",
+      "gp": 15,
+      "g": 3,
+      "a": 3,
+      "pts": 6,
+      "plus_minus": -3,
+      "pim": 4
     },
     {
       "name": "Hudson Schandor",
@@ -53,15 +62,6 @@
       "pts": 6,
       "plus_minus": 10,
       "pim": 8
-    },
-    {
-      "name": "Patrick Polino",
-      "gp": 15,
-      "g": 3,
-      "a": 2,
-      "pts": 5,
-      "plus_minus": -5,
-      "pim": 4
     },
     {
       "name": "Dante Sheriff",
@@ -76,17 +76,17 @@
       "name": "Ryan O'Hara",
       "gp": 15,
       "g": 1,
-      "a": 3,
-      "pts": 4,
-      "plus_minus": -3,
+      "a": 4,
+      "pts": 5,
+      "plus_minus": -2,
       "pim": 10
     },
     {
       "name": "Austin Saint",
-      "gp": 12,
+      "gp": 13,
       "g": 2,
-      "a": 1,
-      "pts": 3,
+      "a": 2,
+      "pts": 4,
       "plus_minus": 0,
       "pim": 7
     },
@@ -119,20 +119,20 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 6,
-      "g": 0,
+      "gp": 7,
+      "g": 1,
       "a": 0,
-      "pts": 0,
+      "pts": 1,
       "plus_minus": -1,
       "pim": 0
     },
     {
       "name": "Jack Brackett",
-      "gp": 13,
+      "gp": 14,
       "g": 0,
       "a": 0,
       "pts": 0,
-      "plus_minus": -3,
+      "plus_minus": -2,
       "pim": 2
     },
     {
@@ -142,7 +142,16 @@
       "a": 5,
       "pts": 7,
       "plus_minus": -2,
-      "pim": 6
+      "pim": 8
+    },
+    {
+      "name": "Josh Atkinson",
+      "gp": 15,
+      "g": 2,
+      "a": 4,
+      "pts": 6,
+      "plus_minus": 0,
+      "pim": 8
     },
     {
       "name": "Parker Berge",
@@ -150,7 +159,7 @@
       "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": 0,
+      "plus_minus": 1,
       "pim": 4
     },
     {
@@ -163,31 +172,31 @@
       "pim": 16
     },
     {
-      "name": "Josh Atkinson",
-      "gp": 15,
-      "g": 1,
-      "a": 4,
-      "pts": 5,
-      "plus_minus": -1,
-      "pim": 8
-    },
-    {
       "name": "Jake Murray",
       "gp": 12,
       "g": 0,
-      "a": 4,
-      "pts": 4,
-      "plus_minus": 4,
+      "a": 5,
+      "pts": 5,
+      "plus_minus": 6,
       "pim": 2
     },
     {
       "name": "Jacob Modry",
       "gp": 5,
       "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 2,
+      "a": 2,
+      "pts": 2,
+      "plus_minus": 3,
       "pim": 4
+    },
+    {
+      "name": "Tim Rego",
+      "gp": 7,
+      "g": 1,
+      "a": 0,
+      "pts": 1,
+      "plus_minus": 0,
+      "pim": 0
     },
     {
       "name": "Jordan Power",
@@ -197,15 +206,6 @@
       "pts": 1,
       "plus_minus": -4,
       "pim": 11
-    },
-    {
-      "name": "Tim Rego",
-      "gp": 7,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": -1,
-      "pim": 0
     }
   ],
   "goalies": [
@@ -215,10 +215,10 @@
       "w": 2,
       "l": 3,
       "otl": 0,
-      "gaa": 1.9,
-      "sv_percent": 0.933,
-      "min": 315,
-      "ga": 10
+      "gaa": 1.86,
+      "sv_percent": 0.936,
+      "min": 355,
+      "ga": 11
     },
     {
       "name": "Isaiah Saville",
