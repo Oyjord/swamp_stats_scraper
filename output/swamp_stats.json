@@ -56,12 +56,12 @@
     },
     {
       "name": "Hudson Schandor",
-      "gp": 15,
+      "gp": 16,
       "g": 0,
       "a": 6,
       "pts": 6,
       "plus_minus": 10,
-      "pim": 8
+      "pim": 10
     },
     {
       "name": "Dante Sheriff",
@@ -211,7 +211,7 @@
   "goalies": [
     {
       "name": "Mattias Sholl",
-      "gp": 7,
+      "gp": 8,
       "w": 3,
       "l": 3,
       "otl": 0,
