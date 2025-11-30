@@ -1,6 +1,15 @@
 {
   "skaters": [
     {
+      "name": "Carter Savoie",
+      "gp": 15,
+      "g": 5,
+      "a": 6,
+      "pts": 11,
+      "plus_minus": 1,
+      "pim": 8
+    },
+    {
       "name": "Keaton Mastrodonato",
       "gp": 17,
       "g": 4,
@@ -8,15 +17,6 @@
       "pts": 11,
       "plus_minus": -4,
       "pim": 2
-    },
-    {
-      "name": "Carter Savoie",
-      "gp": 14,
-      "g": 5,
-      "a": 5,
-      "pts": 10,
-      "plus_minus": 1,
-      "pim": 8
     },
     {
       "name": "Tate Singleton",
@@ -55,6 +55,15 @@
       "pim": 4
     },
     {
+      "name": "Dante Sheriff",
+      "gp": 9,
+      "g": 3,
+      "a": 3,
+      "pts": 6,
+      "plus_minus": 4,
+      "pim": 4
+    },
+    {
       "name": "Ryan O'Hara",
       "gp": 17,
       "g": 1,
@@ -71,15 +80,6 @@
       "pts": 6,
       "plus_minus": 11,
       "pim": 12
-    },
-    {
-      "name": "Dante Sheriff",
-      "gp": 8,
-      "g": 2,
-      "a": 3,
-      "pts": 5,
-      "plus_minus": 4,
-      "pim": 4
     },
     {
       "name": "Austin Saint",
@@ -146,10 +146,10 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 16,
+      "gp": 17,
       "g": 2,
-      "a": 5,
-      "pts": 7,
+      "a": 6,
+      "pts": 8,
       "plus_minus": -3,
       "pim": 8
     },
@@ -160,7 +160,7 @@
       "a": 5,
       "pts": 7,
       "plus_minus": 2,
-      "pim": 12
+      "pim": 27
     },
     {
       "name": "Parker Berge",
@@ -224,10 +224,10 @@
       "w": 3,
       "l": 3,
       "otl": 1,
-      "gaa": 1.82,
-      "sv_percent": 0.932,
-      "min": 461,
-      "ga": 14
+      "gaa": 1.86,
+      "sv_percent": 0.936,
+      "min": 484,
+      "ga": 15
     },
     {
       "name": "Isaiah Saville",
