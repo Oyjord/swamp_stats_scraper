@@ -56,7 +56,7 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 16,
+      "gp": 17,
       "g": 1,
       "a": 5,
       "pts": 6,
@@ -65,12 +65,12 @@
     },
     {
       "name": "Hudson Schandor",
-      "gp": 16,
+      "gp": 17,
       "g": 0,
       "a": 6,
       "pts": 6,
       "plus_minus": 11,
-      "pim": 10
+      "pim": 12
     },
     {
       "name": "Dante Sheriff",
@@ -164,7 +164,7 @@
     },
     {
       "name": "Parker Berge",
-      "gp": 13,
+      "gp": 14,
       "g": 1,
       "a": 4,
       "pts": 5,
@@ -200,7 +200,7 @@
     },
     {
       "name": "Tim Rego",
-      "gp": 8,
+      "gp": 9,
       "g": 1,
       "a": 0,
       "pts": 1,
