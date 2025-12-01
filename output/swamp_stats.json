@@ -38,7 +38,7 @@
     },
     {
       "name": "Cam Hausinger",
-      "gp": 16,
+      "gp": 17,
       "g": 6,
       "a": 1,
       "pts": 7,
@@ -92,7 +92,7 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 15,
+      "gp": 16,
       "g": 2,
       "a": 1,
       "pts": 3,
@@ -101,7 +101,7 @@
     },
     {
       "name": "Kenta Isogai",
-      "gp": 9,
+      "gp": 10,
       "g": 1,
       "a": 1,
       "pts": 2,
@@ -110,7 +110,7 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 1,
+      "gp": 2,
       "g": 1,
       "a": 0,
       "pts": 1,
@@ -128,7 +128,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 8,
+      "gp": 9,
       "g": 1,
       "a": 0,
       "pts": 1,
@@ -137,7 +137,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 15,
+      "gp": 16,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -169,7 +169,7 @@
       "a": 4,
       "pts": 5,
       "plus_minus": 0,
-      "pim": 4
+      "pim": 6
     },
     {
       "name": "Tristan De Jong",
@@ -182,7 +182,7 @@
     },
     {
       "name": "Jake Murray",
-      "gp": 13,
+      "gp": 14,
       "g": 0,
       "a": 5,
       "pts": 5,
@@ -191,7 +191,7 @@
     },
     {
       "name": "Jacob Modry",
-      "gp": 6,
+      "gp": 7,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -223,11 +223,11 @@
       "gp": 9,
       "w": 3,
       "l": 3,
-      "otl": 1,
-      "gaa": 1.86,
-      "sv_percent": 0.936,
-      "min": 484,
-      "ga": 15
+      "otl": 2,
+      "gaa": 1.9,
+      "sv_percent": 0.934,
+      "min": 505,
+      "ga": 16
     },
     {
       "name": "Isaiah Saville",
