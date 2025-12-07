@@ -2,21 +2,30 @@
   "skaters": [
     {
       "name": "Carter Savoie",
-      "gp": 16,
-      "g": 6,
+      "gp": 17,
+      "g": 7,
       "a": 6,
-      "pts": 12,
+      "pts": 13,
       "plus_minus": 1,
-      "pim": 8
+      "pim": 10
     },
     {
       "name": "Keaton Mastrodonato",
-      "gp": 18,
+      "gp": 19,
       "g": 4,
-      "a": 7,
-      "pts": 11,
+      "a": 8,
+      "pts": 12,
       "plus_minus": -4,
       "pim": 2
+    },
+    {
+      "name": "Patrick Polino",
+      "gp": 17,
+      "g": 3,
+      "a": 8,
+      "pts": 11,
+      "plus_minus": -1,
+      "pim": 8
     },
     {
       "name": "Tate Singleton",
@@ -38,21 +47,21 @@
     },
     {
       "name": "Cam Hausinger",
-      "gp": 18,
+      "gp": 19,
       "g": 6,
-      "a": 1,
-      "pts": 7,
-      "plus_minus": 2,
+      "a": 2,
+      "pts": 8,
+      "plus_minus": 4,
       "pim": 26
     },
     {
-      "name": "Patrick Polino",
-      "gp": 16,
-      "g": 3,
-      "a": 4,
-      "pts": 7,
-      "plus_minus": -3,
-      "pim": 6
+      "name": "Ryan O'Hara",
+      "gp": 19,
+      "g": 2,
+      "a": 6,
+      "pts": 8,
+      "plus_minus": 1,
+      "pim": 10
     },
     {
       "name": "Dante Sheriff",
@@ -62,15 +71,6 @@
       "pts": 6,
       "plus_minus": 4,
       "pim": 4
-    },
-    {
-      "name": "Ryan O'Hara",
-      "gp": 18,
-      "g": 1,
-      "a": 5,
-      "pts": 6,
-      "plus_minus": -1,
-      "pim": 10
     },
     {
       "name": "Hudson Schandor",
@@ -83,11 +83,11 @@
     },
     {
       "name": "Austin Saint",
-      "gp": 14,
+      "gp": 15,
       "g": 2,
       "a": 2,
       "pts": 4,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 7
     },
     {
@@ -101,19 +101,19 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 17,
+      "gp": 18,
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": -1,
-      "pim": 0
+      "plus_minus": -2,
+      "pim": 2
     },
     {
       "name": "John Parker-Jones",
-      "gp": 3,
-      "g": 1,
+      "gp": 4,
+      "g": 2,
       "a": 0,
-      "pts": 1,
+      "pts": 2,
       "plus_minus": -3,
       "pim": 0
     },
@@ -128,11 +128,11 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 10,
+      "gp": 11,
       "g": 1,
       "a": 0,
       "pts": 1,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 0
     },
     {
@@ -146,30 +146,30 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 18,
+      "gp": 19,
       "g": 2,
       "a": 6,
       "pts": 8,
-      "plus_minus": -3,
+      "plus_minus": -4,
+      "pim": 8
+    },
+    {
+      "name": "Parker Berge",
+      "gp": 16,
+      "g": 2,
+      "a": 5,
+      "pts": 7,
+      "plus_minus": 1,
       "pim": 8
     },
     {
       "name": "Josh Atkinson",
-      "gp": 18,
+      "gp": 19,
       "g": 2,
       "a": 5,
       "pts": 7,
       "plus_minus": 0,
       "pim": 29
-    },
-    {
-      "name": "Parker Berge",
-      "gp": 15,
-      "g": 2,
-      "a": 4,
-      "pts": 6,
-      "plus_minus": -1,
-      "pim": 8
     },
     {
       "name": "Tristan De Jong",
@@ -191,20 +191,20 @@
     },
     {
       "name": "Tim Rego",
-      "gp": 10,
-      "g": 1,
+      "gp": 11,
+      "g": 2,
       "a": 1,
-      "pts": 2,
-      "plus_minus": -1,
+      "pts": 3,
+      "plus_minus": 1,
       "pim": 0
     },
     {
       "name": "Jacob Modry",
-      "gp": 7,
+      "gp": 8,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 4
     },
     {
