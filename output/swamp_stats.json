@@ -6,7 +6,7 @@
       "g": 7,
       "a": 6,
       "pts": 13,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 12
     },
     {
@@ -24,16 +24,16 @@
       "g": 4,
       "a": 8,
       "pts": 12,
-      "plus_minus": -6,
+      "plus_minus": -7,
       "pim": 2
     },
     {
       "name": "Cam Hausinger",
-      "gp": 19,
+      "gp": 20,
       "g": 6,
       "a": 4,
       "pts": 10,
-      "plus_minus": 5,
+      "plus_minus": 4,
       "pim": 26
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 19,
+      "gp": 20,
       "g": 1,
       "a": 6,
       "pts": 7,
@@ -78,17 +78,26 @@
       "g": 0,
       "a": 6,
       "pts": 6,
-      "plus_minus": 9,
+      "plus_minus": 8,
       "pim": 16
     },
     {
       "name": "Austin Saint",
-      "gp": 15,
+      "gp": 16,
       "g": 2,
-      "a": 2,
+      "a": 3,
+      "pts": 5,
+      "plus_minus": 0,
+      "pim": 7
+    },
+    {
+      "name": "Brent Pedersen",
+      "gp": 19,
+      "g": 3,
+      "a": 1,
       "pts": 4,
       "plus_minus": -1,
-      "pim": 7
+      "pim": 2
     },
     {
       "name": "Kenta Isogai",
@@ -100,35 +109,26 @@
       "pim": 0
     },
     {
-      "name": "Brent Pedersen",
-      "gp": 18,
-      "g": 2,
-      "a": 1,
-      "pts": 3,
-      "plus_minus": -2,
-      "pim": 2
-    },
-    {
       "name": "John Parker-Jones",
       "gp": 5,
       "g": 2,
       "a": 0,
       "pts": 2,
       "plus_minus": -4,
-      "pim": 2
+      "pim": 14
+    },
+    {
+      "name": "Ben Poisson",
+      "gp": 12,
+      "g": 1,
+      "a": 1,
+      "pts": 2,
+      "plus_minus": -1,
+      "pim": 0
     },
     {
       "name": "Stepan Timofeyev",
       "gp": 3,
-      "g": 1,
-      "a": 0,
-      "pts": 1,
-      "plus_minus": -2,
-      "pim": 0
-    },
-    {
-      "name": "Ben Poisson",
-      "gp": 11,
       "g": 1,
       "a": 0,
       "pts": 1,
@@ -146,11 +146,11 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 19,
+      "gp": 20,
       "g": 2,
       "a": 6,
       "pts": 8,
-      "plus_minus": -4,
+      "plus_minus": -3,
       "pim": 10
     },
     {
@@ -159,7 +159,7 @@
       "g": 3,
       "a": 4,
       "pts": 7,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 10
     },
     {
@@ -169,7 +169,7 @@
       "a": 5,
       "pts": 7,
       "plus_minus": -2,
-      "pim": 29
+      "pim": 33
     },
     {
       "name": "Tristan De Jong",
@@ -195,7 +195,7 @@
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 0
     },
     {
@@ -204,7 +204,7 @@
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 1,
+      "plus_minus": 2,
       "pim": 6
     },
     {
@@ -222,12 +222,12 @@
       "name": "Mattias Sholl",
       "gp": 11,
       "w": 3,
-      "l": 4,
+      "l": 5,
       "otl": 2,
-      "gaa": 2.12,
-      "sv_percent": 0.926,
-      "min": 565,
-      "ga": 20
+      "gaa": 2.31,
+      "sv_percent": 0.921,
+      "min": 624,
+      "ga": 24
     },
     {
       "name": "Isaiah Saville",
