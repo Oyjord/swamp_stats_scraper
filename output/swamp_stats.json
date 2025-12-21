@@ -20,16 +20,16 @@
     },
     {
       "name": "Patrick Polino",
-      "gp": 22,
+      "gp": 23,
       "g": 4,
       "a": 8,
       "pts": 12,
       "plus_minus": -1,
-      "pim": 8
+      "pim": 10
     },
     {
       "name": "Cam Hausinger",
-      "gp": 24,
+      "gp": 25,
       "g": 6,
       "a": 5,
       "pts": 11,
@@ -56,7 +56,7 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 24,
+      "gp": 25,
       "g": 2,
       "a": 7,
       "pts": 9,
@@ -65,12 +65,12 @@
     },
     {
       "name": "Dante Sheriff",
-      "gp": 12,
+      "gp": 13,
       "g": 3,
       "a": 5,
       "pts": 8,
       "plus_minus": 4,
-      "pim": 4
+      "pim": 6
     },
     {
       "name": "Hudson Schandor",
@@ -173,12 +173,12 @@
     },
     {
       "name": "Jake Murray",
-      "gp": 21,
+      "gp": 22,
       "g": 0,
       "a": 7,
       "pts": 7,
       "plus_minus": 7,
-      "pim": 2
+      "pim": 4
     },
     {
       "name": "Tristan De Jong",
@@ -200,7 +200,7 @@
     },
     {
       "name": "Jacob Modry",
-      "gp": 13,
+      "gp": 14,
       "g": 0,
       "a": 3,
       "pts": 3,
@@ -246,10 +246,10 @@
       "w": 4,
       "l": 2,
       "otl": 2,
-      "gaa": 2.93,
-      "sv_percent": 0.89,
-      "min": 491,
-      "ga": 24
+      "gaa": 2.82,
+      "sv_percent": 0.895,
+      "min": 531,
+      "ga": 25
     }
   ]
 }
