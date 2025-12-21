@@ -119,12 +119,12 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 9,
+      "gp": 10,
       "g": 2,
       "a": 1,
       "pts": 3,
       "plus_minus": -4,
-      "pim": 23
+      "pim": 25
     },
     {
       "name": "Jack Brackett",
@@ -242,7 +242,7 @@
     },
     {
       "name": "Pierce Charleson",
-      "gp": 8,
+      "gp": 9,
       "w": 4,
       "l": 2,
       "otl": 2,
