@@ -19,15 +19,6 @@
       "pim": 6
     },
     {
-      "name": "Cam Hausinger",
-      "gp": 25,
-      "g": 6,
-      "a": 6,
-      "pts": 12,
-      "plus_minus": 4,
-      "pim": 28
-    },
-    {
       "name": "Patrick Polino",
       "gp": 23,
       "g": 4,
@@ -35,6 +26,15 @@
       "pts": 12,
       "plus_minus": -1,
       "pim": 10
+    },
+    {
+      "name": "Cam Hausinger",
+      "gp": 25,
+      "g": 6,
+      "a": 5,
+      "pts": 11,
+      "plus_minus": 4,
+      "pim": 28
     },
     {
       "name": "Ryan O'Reilly",
@@ -70,7 +70,7 @@
       "a": 5,
       "pts": 8,
       "plus_minus": 4,
-      "pim": 6
+      "pim": 4
     },
     {
       "name": "Hudson Schandor",
@@ -91,6 +91,15 @@
       "pim": 2
     },
     {
+      "name": "Austin Saint",
+      "gp": 20,
+      "g": 2,
+      "a": 4,
+      "pts": 6,
+      "plus_minus": 1,
+      "pim": 7
+    },
+    {
       "name": "Ben Poisson",
       "gp": 17,
       "g": 3,
@@ -98,15 +107,6 @@
       "pts": 5,
       "plus_minus": 3,
       "pim": 2
-    },
-    {
-      "name": "Austin Saint",
-      "gp": 20,
-      "g": 2,
-      "a": 3,
-      "pts": 5,
-      "plus_minus": 1,
-      "pim": 7
     },
     {
       "name": "Kenta Isogai",
@@ -124,7 +124,7 @@
       "a": 1,
       "pts": 3,
       "plus_minus": -5,
-      "pim": 29
+      "pim": 27
     },
     {
       "name": "Jack Brackett",
