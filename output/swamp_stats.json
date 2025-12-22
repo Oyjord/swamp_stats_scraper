@@ -2,7 +2,7 @@
   "skaters": [
     {
       "name": "Carter Savoie",
-      "gp": 21,
+      "gp": 22,
       "g": 7,
       "a": 8,
       "pts": 15,
@@ -19,6 +19,15 @@
       "pim": 6
     },
     {
+      "name": "Cam Hausinger",
+      "gp": 25,
+      "g": 6,
+      "a": 6,
+      "pts": 12,
+      "plus_minus": 4,
+      "pim": 28
+    },
+    {
       "name": "Patrick Polino",
       "gp": 23,
       "g": 4,
@@ -28,21 +37,12 @@
       "pim": 10
     },
     {
-      "name": "Cam Hausinger",
-      "gp": 25,
-      "g": 6,
-      "a": 5,
-      "pts": 11,
-      "plus_minus": 4,
-      "pim": 28
-    },
-    {
       "name": "Ryan O'Reilly",
-      "gp": 24,
+      "gp": 25,
       "g": 5,
       "a": 6,
       "pts": 11,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 13
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "name": "Hudson Schandor",
-      "gp": 24,
+      "gp": 25,
       "g": 2,
       "a": 6,
       "pts": 8,
@@ -83,7 +83,7 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 23,
+      "gp": 24,
       "g": 4,
       "a": 3,
       "pts": 7,
@@ -92,7 +92,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 16,
+      "gp": 17,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -101,11 +101,11 @@
     },
     {
       "name": "Austin Saint",
-      "gp": 19,
+      "gp": 20,
       "g": 2,
       "a": 3,
       "pts": 5,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 7
     },
     {
@@ -123,12 +123,12 @@
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": -4,
-      "pim": 27
+      "plus_minus": -5,
+      "pim": 29
     },
     {
       "name": "Jack Brackett",
-      "gp": 22,
+      "gp": 23,
       "g": 1,
       "a": 1,
       "pts": 2,
@@ -145,29 +145,29 @@
       "pim": 0
     },
     {
-      "name": "Tim Lovell",
-      "gp": 24,
-      "g": 2,
-      "a": 8,
-      "pts": 10,
-      "plus_minus": -1,
-      "pim": 12
-    },
-    {
       "name": "Josh Atkinson",
       "gp": 25,
-      "g": 2,
+      "g": 3,
       "a": 8,
-      "pts": 10,
+      "pts": 11,
       "plus_minus": 1,
       "pim": 37
     },
     {
+      "name": "Tim Lovell",
+      "gp": 25,
+      "g": 2,
+      "a": 8,
+      "pts": 10,
+      "plus_minus": -2,
+      "pim": 17
+    },
+    {
       "name": "Parker Berge",
-      "gp": 21,
+      "gp": 22,
       "g": 3,
-      "a": 5,
-      "pts": 8,
+      "a": 6,
+      "pts": 9,
       "plus_minus": -2,
       "pim": 12
     },
@@ -191,7 +191,7 @@
     },
     {
       "name": "Tim Rego",
-      "gp": 14,
+      "gp": 15,
       "g": 2,
       "a": 2,
       "pts": 4,
@@ -204,7 +204,7 @@
       "g": 0,
       "a": 3,
       "pts": 3,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 8
     },
     {
@@ -244,12 +244,12 @@
       "name": "Pierce Charleson",
       "gp": 9,
       "w": 4,
-      "l": 2,
+      "l": 3,
       "otl": 2,
-      "gaa": 2.82,
-      "sv_percent": 0.895,
-      "min": 531,
-      "ga": 25
+      "gaa": 2.95,
+      "sv_percent": 0.89,
+      "min": 550,
+      "ga": 27
     }
   ]
 }
