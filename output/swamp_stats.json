@@ -19,31 +19,40 @@
       "pim": 6
     },
     {
-      "name": "Patrick Polino",
-      "gp": 23,
-      "g": 4,
-      "a": 8,
-      "pts": 12,
-      "plus_minus": -1,
-      "pim": 10
-    },
-    {
       "name": "Cam Hausinger",
-      "gp": 25,
-      "g": 6,
-      "a": 5,
-      "pts": 11,
+      "gp": 26,
+      "g": 7,
+      "a": 6,
+      "pts": 13,
       "plus_minus": 4,
-      "pim": 28
+      "pim": 33
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 25,
-      "g": 5,
+      "gp": 26,
+      "g": 6,
       "a": 6,
-      "pts": 11,
+      "pts": 12,
       "plus_minus": -4,
       "pim": 13
+    },
+    {
+      "name": "Patrick Polino",
+      "gp": 24,
+      "g": 4,
+      "a": 8,
+      "pts": 12,
+      "plus_minus": -3,
+      "pim": 10
+    },
+    {
+      "name": "Ryan O'Hara",
+      "gp": 26,
+      "g": 2,
+      "a": 9,
+      "pts": 11,
+      "plus_minus": 1,
+      "pim": 14
     },
     {
       "name": "Tate Singleton",
@@ -53,15 +62,6 @@
       "pts": 10,
       "plus_minus": 0,
       "pim": 11
-    },
-    {
-      "name": "Ryan O'Hara",
-      "gp": 25,
-      "g": 2,
-      "a": 7,
-      "pts": 9,
-      "plus_minus": 2,
-      "pim": 14
     },
     {
       "name": "Dante Sheriff",
@@ -83,11 +83,11 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 24,
+      "gp": 25,
       "g": 4,
       "a": 3,
       "pts": 7,
-      "plus_minus": 4,
+      "plus_minus": 2,
       "pim": 2
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 10,
+      "gp": 11,
       "g": 2,
       "a": 1,
       "pts": 3,
@@ -128,20 +128,20 @@
     },
     {
       "name": "Remy Parker",
-      "gp": 16,
+      "gp": 17,
       "g": 2,
       "a": 0,
       "pts": 2,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 2
     },
     {
       "name": "Jack Brackett",
-      "gp": 23,
+      "gp": 24,
       "g": 1,
       "a": 1,
       "pts": 2,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 2
     },
     {
@@ -154,21 +154,39 @@
       "pim": 0
     },
     {
+      "name": "Bryan Moore",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": -1,
+      "pim": 4
+    },
+    {
+      "name": "Yaroslav Yevdokimov",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": -1,
+      "pim": 0
+    },
+    {
       "name": "Josh Atkinson",
-      "gp": 25,
+      "gp": 26,
       "g": 3,
       "a": 8,
       "pts": 11,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 37
     },
     {
       "name": "Tim Lovell",
-      "gp": 25,
+      "gp": 26,
       "g": 2,
       "a": 8,
       "pts": 10,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 17
     },
     {
@@ -182,20 +200,20 @@
     },
     {
       "name": "Jake Murray",
-      "gp": 22,
+      "gp": 23,
       "g": 0,
       "a": 7,
       "pts": 7,
-      "plus_minus": 7,
+      "plus_minus": 6,
       "pim": 4
     },
     {
       "name": "Tristan De Jong",
-      "gp": 14,
+      "gp": 15,
       "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 16
     },
     {
@@ -209,11 +227,11 @@
     },
     {
       "name": "Jacob Modry",
-      "gp": 14,
+      "gp": 15,
       "g": 0,
-      "a": 3,
-      "pts": 3,
-      "plus_minus": 3,
+      "a": 4,
+      "pts": 4,
+      "plus_minus": 1,
       "pim": 8
     },
     {
@@ -227,6 +245,17 @@
     }
   ],
   "goalies": [
+    {
+      "name": "Carter McPhail",
+      "gp": 1,
+      "w": 0,
+      "l": 0,
+      "otl": 0,
+      "gaa": 0.0,
+      "sv_percent": 0.0,
+      "min": 0,
+      "ga": 0
+    },
     {
       "name": "Mattias Sholl",
       "gp": 12,
@@ -251,14 +280,14 @@
     },
     {
       "name": "Pierce Charleson",
-      "gp": 9,
+      "gp": 10,
       "w": 4,
       "l": 3,
       "otl": 2,
-      "gaa": 2.95,
-      "sv_percent": 0.89,
-      "min": 550,
-      "ga": 27
+      "gaa": 3.13,
+      "sv_percent": 0.884,
+      "min": 595,
+      "ga": 31
     }
   ]
 }
