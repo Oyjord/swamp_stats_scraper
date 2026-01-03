@@ -24,7 +24,7 @@
       "g": 7,
       "a": 8,
       "pts": 15,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 35
     },
     {
@@ -42,7 +42,7 @@
       "g": 7,
       "a": 6,
       "pts": 13,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 13
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 18,
+      "gp": 19,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -132,7 +132,7 @@
       "g": 2,
       "a": 0,
       "pts": 2,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 4
     },
     {
@@ -177,7 +177,7 @@
       "g": 4,
       "a": 8,
       "pts": 12,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 37
     },
     {
@@ -186,7 +186,7 @@
       "g": 2,
       "a": 8,
       "pts": 10,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 19
     },
     {
@@ -195,7 +195,7 @@
       "g": 3,
       "a": 6,
       "pts": 9,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 12
     },
     {
@@ -232,7 +232,7 @@
       "a": 4,
       "pts": 4,
       "plus_minus": -1,
-      "pim": 8
+      "pim": 10
     },
     {
       "name": "Jordan Power",
@@ -260,12 +260,12 @@
       "name": "Mattias Sholl",
       "gp": 13,
       "w": 4,
-      "l": 5,
+      "l": 6,
       "otl": 2,
-      "gaa": 2.19,
-      "sv_percent": 0.926,
-      "min": 684,
-      "ga": 25
+      "gaa": 2.5,
+      "sv_percent": 0.915,
+      "min": 743,
+      "ga": 31
     },
     {
       "name": "Isaiah Saville",
