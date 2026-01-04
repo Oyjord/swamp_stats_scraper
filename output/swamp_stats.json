@@ -2,11 +2,11 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 24,
+      "gp": 25,
       "g": 8,
       "a": 9,
       "pts": 17,
-      "plus_minus": -8,
+      "plus_minus": -9,
       "pim": 11
     },
     {
@@ -38,11 +38,11 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 27,
+      "gp": 28,
       "g": 7,
       "a": 6,
       "pts": 13,
-      "plus_minus": -5,
+      "plus_minus": -4,
       "pim": 13
     },
     {
@@ -64,30 +64,30 @@
       "pim": 11
     },
     {
-      "name": "Dante Sheriff",
-      "gp": 15,
-      "g": 3,
-      "a": 6,
-      "pts": 9,
-      "plus_minus": 3,
-      "pim": 8
-    },
-    {
       "name": "Brent Pedersen",
-      "gp": 26,
+      "gp": 27,
       "g": 4,
-      "a": 4,
-      "pts": 8,
-      "plus_minus": 3,
+      "a": 5,
+      "pts": 9,
+      "plus_minus": 4,
       "pim": 2
     },
     {
+      "name": "Dante Sheriff",
+      "gp": 16,
+      "g": 3,
+      "a": 6,
+      "pts": 9,
+      "plus_minus": 2,
+      "pim": 8
+    },
+    {
       "name": "Hudson Schandor",
-      "gp": 27,
+      "gp": 28,
       "g": 2,
       "a": 6,
       "pts": 8,
-      "plus_minus": 3,
+      "plus_minus": 2,
       "pim": 20
     },
     {
@@ -119,30 +119,30 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 12,
+      "gp": 13,
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": -4,
+      "plus_minus": -3,
       "pim": 32
     },
     {
-      "name": "Remy Parker",
-      "gp": 18,
+      "name": "Jack Brackett",
+      "gp": 26,
       "g": 2,
-      "a": 0,
-      "pts": 2,
-      "plus_minus": -5,
+      "a": 1,
+      "pts": 3,
+      "plus_minus": 2,
       "pim": 4
     },
     {
-      "name": "Jack Brackett",
-      "gp": 25,
-      "g": 1,
-      "a": 1,
+      "name": "Remy Parker",
+      "gp": 19,
+      "g": 2,
+      "a": 0,
       "pts": 2,
-      "plus_minus": 1,
-      "pim": 2
+      "plus_minus": -4,
+      "pim": 4
     },
     {
       "name": "Stepan Timofeyev",
@@ -181,22 +181,22 @@
       "pim": 37
     },
     {
+      "name": "Parker Berge",
+      "gp": 24,
+      "g": 4,
+      "a": 6,
+      "pts": 10,
+      "plus_minus": -4,
+      "pim": 12
+    },
+    {
       "name": "Tim Lovell",
-      "gp": 27,
+      "gp": 28,
       "g": 2,
       "a": 8,
       "pts": 10,
       "plus_minus": -4,
       "pim": 19
-    },
-    {
-      "name": "Parker Berge",
-      "gp": 23,
-      "g": 3,
-      "a": 6,
-      "pts": 9,
-      "plus_minus": -4,
-      "pim": 12
     },
     {
       "name": "Jake Murray",
@@ -280,7 +280,7 @@
     },
     {
       "name": "Pierce Charleson",
-      "gp": 10,
+      "gp": 11,
       "w": 4,
       "l": 4,
       "otl": 2,
