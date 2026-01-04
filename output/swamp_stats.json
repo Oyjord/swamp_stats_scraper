@@ -6,8 +6,17 @@
       "g": 8,
       "a": 9,
       "pts": 17,
-      "plus_minus": -9,
+      "plus_minus": -8,
       "pim": 11
+    },
+    {
+      "name": "Cam Hausinger",
+      "gp": 28,
+      "g": 8,
+      "a": 8,
+      "pts": 16,
+      "plus_minus": 3,
+      "pim": 35
     },
     {
       "name": "Carter Savoie",
@@ -17,15 +26,6 @@
       "pts": 15,
       "plus_minus": -2,
       "pim": 16
-    },
-    {
-      "name": "Cam Hausinger",
-      "gp": 27,
-      "g": 7,
-      "a": 8,
-      "pts": 15,
-      "plus_minus": 2,
-      "pim": 35
     },
     {
       "name": "Patrick Polino",
@@ -42,7 +42,7 @@
       "g": 7,
       "a": 6,
       "pts": 13,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 13
     },
     {
@@ -85,9 +85,9 @@
       "name": "Hudson Schandor",
       "gp": 28,
       "g": 2,
-      "a": 6,
-      "pts": 8,
-      "plus_minus": 2,
+      "a": 7,
+      "pts": 9,
+      "plus_minus": 3,
       "pim": 20
     },
     {
@@ -101,12 +101,12 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 19,
+      "gp": 20,
       "g": 3,
       "a": 2,
       "pts": 5,
-      "plus_minus": 3,
-      "pim": 2
+      "plus_minus": 4,
+      "pim": 4
     },
     {
       "name": "Kenta Isogai",
@@ -123,7 +123,7 @@
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 32
     },
     {
@@ -141,7 +141,7 @@
       "g": 2,
       "a": 0,
       "pts": 2,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 4
     },
     {
@@ -173,11 +173,11 @@
     },
     {
       "name": "Josh Atkinson",
-      "gp": 27,
+      "gp": 28,
       "g": 4,
-      "a": 8,
-      "pts": 12,
-      "plus_minus": 1,
+      "a": 9,
+      "pts": 13,
+      "plus_minus": 2,
       "pim": 37
     },
     {
@@ -200,16 +200,16 @@
     },
     {
       "name": "Jake Murray",
-      "gp": 24,
+      "gp": 25,
       "g": 0,
       "a": 8,
       "pts": 8,
-      "plus_minus": 9,
+      "plus_minus": 10,
       "pim": 4
     },
     {
       "name": "Tristan De Jong",
-      "gp": 16,
+      "gp": 17,
       "g": 1,
       "a": 4,
       "pts": 5,
@@ -227,7 +227,7 @@
     },
     {
       "name": "Jacob Modry",
-      "gp": 16,
+      "gp": 17,
       "g": 0,
       "a": 4,
       "pts": 4,
@@ -284,10 +284,10 @@
       "w": 4,
       "l": 4,
       "otl": 2,
-      "gaa": 3.23,
-      "sv_percent": 0.881,
-      "min": 595,
-      "ga": 32
+      "gaa": 3.14,
+      "sv_percent": 0.884,
+      "min": 632,
+      "ga": 33
     }
   ]
 }
