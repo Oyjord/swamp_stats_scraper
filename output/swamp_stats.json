@@ -15,7 +15,7 @@
       "g": 8,
       "a": 10,
       "pts": 18,
-      "plus_minus": 6,
+      "plus_minus": 5,
       "pim": 40
     },
     {
@@ -24,7 +24,7 @@
       "g": 5,
       "a": 12,
       "pts": 17,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 15
     },
     {
@@ -42,7 +42,7 @@
       "g": 4,
       "a": 10,
       "pts": 14,
-      "plus_minus": 3,
+      "plus_minus": 2,
       "pim": 14
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "Hudson Schandor",
-      "gp": 29,
+      "gp": 30,
       "g": 2,
       "a": 10,
       "pts": 12,
@@ -83,7 +83,7 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 28,
+      "gp": 29,
       "g": 4,
       "a": 5,
       "pts": 9,
@@ -101,7 +101,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 21,
+      "gp": 22,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -110,7 +110,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 27,
+      "gp": 28,
       "g": 3,
       "a": 1,
       "pts": 4,
@@ -137,7 +137,7 @@
     },
     {
       "name": "Remy Parker",
-      "gp": 20,
+      "gp": 21,
       "g": 2,
       "a": 0,
       "pts": 2,
@@ -178,7 +178,7 @@
       "a": 9,
       "pts": 13,
       "plus_minus": 3,
-      "pim": 54
+      "pim": 56
     },
     {
       "name": "Tim Lovell",
@@ -186,16 +186,16 @@
       "g": 2,
       "a": 10,
       "pts": 12,
-      "plus_minus": -2,
-      "pim": 21
+      "plus_minus": -3,
+      "pim": 23
     },
     {
       "name": "Parker Berge",
-      "gp": 25,
+      "gp": 26,
       "g": 5,
       "a": 6,
       "pts": 11,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 14
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "name": "Jacob Modry",
-      "gp": 18,
+      "gp": 19,
       "g": 0,
       "a": 4,
       "pts": 4,
@@ -280,12 +280,12 @@
       "name": "Isaiah Saville",
       "gp": 6,
       "w": 3,
-      "l": 2,
+      "l": 3,
       "otl": 0,
-      "gaa": 2.59,
-      "sv_percent": 0.925,
-      "min": 278,
-      "ga": 12
+      "gaa": 2.49,
+      "sv_percent": 0.926,
+      "min": 338,
+      "ga": 14
     },
     {
       "name": "Pierce Charleson",
