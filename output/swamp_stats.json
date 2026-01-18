@@ -47,7 +47,7 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 31,
+      "gp": 32,
       "g": 7,
       "a": 6,
       "pts": 13,
@@ -92,7 +92,7 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 30,
+      "gp": 31,
       "g": 4,
       "a": 5,
       "pts": 9,
@@ -110,7 +110,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 23,
+      "gp": 24,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -119,7 +119,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 29,
+      "gp": 30,
       "g": 3,
       "a": 1,
       "pts": 4,
@@ -151,7 +151,7 @@
       "a": 0,
       "pts": 3,
       "plus_minus": -4,
-      "pim": 4
+      "pim": 6
     },
     {
       "name": "Stepan Timofeyev",
@@ -191,7 +191,7 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 31,
+      "gp": 32,
       "g": 2,
       "a": 10,
       "pts": 12,
@@ -218,7 +218,7 @@
     },
     {
       "name": "Tristan De Jong",
-      "gp": 20,
+      "gp": 21,
       "g": 1,
       "a": 5,
       "pts": 6,
@@ -288,12 +288,12 @@
     {
       "name": "Isaiah Saville",
       "gp": 8,
-      "w": 3,
+      "w": 4,
       "l": 4,
       "otl": 0,
-      "gaa": 2.62,
-      "sv_percent": 0.921,
-      "min": 435,
+      "gaa": 2.5,
+      "sv_percent": 0.924,
+      "min": 455,
       "ga": 19
     },
     {
