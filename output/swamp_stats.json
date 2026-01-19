@@ -1,6 +1,15 @@
 {
   "skaters": [
     {
+      "name": "Cam Hausinger",
+      "gp": 34,
+      "g": 11,
+      "a": 10,
+      "pts": 21,
+      "plus_minus": 4,
+      "pim": 40
+    },
+    {
       "name": "Keaton Mastrodonato",
       "gp": 30,
       "g": 9,
@@ -10,20 +19,11 @@
       "pim": 11
     },
     {
-      "name": "Cam Hausinger",
-      "gp": 33,
-      "g": 10,
-      "a": 10,
-      "pts": 20,
-      "plus_minus": 4,
-      "pim": 40
-    },
-    {
       "name": "Patrick Polino",
-      "gp": 31,
+      "gp": 32,
       "g": 5,
-      "a": 12,
-      "pts": 17,
+      "a": 13,
+      "pts": 18,
       "plus_minus": -5,
       "pim": 15
     },
@@ -146,12 +146,12 @@
     },
     {
       "name": "Remy Parker",
-      "gp": 24,
+      "gp": 25,
       "g": 3,
       "a": 0,
       "pts": 3,
       "plus_minus": -4,
-      "pim": 8
+      "pim": 18
     },
     {
       "name": "Stepan Timofeyev",
@@ -190,6 +190,15 @@
       "pim": 56
     },
     {
+      "name": "Parker Berge",
+      "gp": 30,
+      "g": 5,
+      "a": 7,
+      "pts": 12,
+      "plus_minus": -5,
+      "pim": 14
+    },
+    {
       "name": "Tim Lovell",
       "gp": 34,
       "g": 2,
@@ -197,15 +206,6 @@
       "pts": 12,
       "plus_minus": -4,
       "pim": 25
-    },
-    {
-      "name": "Parker Berge",
-      "gp": 29,
-      "g": 5,
-      "a": 6,
-      "pts": 11,
-      "plus_minus": -5,
-      "pim": 14
     },
     {
       "name": "Jake Murray",
