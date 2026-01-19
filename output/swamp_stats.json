@@ -92,7 +92,7 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 32,
+      "gp": 33,
       "g": 4,
       "a": 5,
       "pts": 9,
@@ -110,7 +110,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 25,
+      "gp": 26,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -119,7 +119,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 31,
+      "gp": 32,
       "g": 3,
       "a": 1,
       "pts": 4,
@@ -128,7 +128,7 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 18,
+      "gp": 19,
       "g": 2,
       "a": 2,
       "pts": 4,
@@ -236,7 +236,7 @@
     },
     {
       "name": "Jacob Modry",
-      "gp": 21,
+      "gp": 22,
       "g": 0,
       "a": 4,
       "pts": 4,
@@ -245,7 +245,7 @@
     },
     {
       "name": "Lordanthony Grissom",
-      "gp": 24,
+      "gp": 25,
       "g": 0,
       "a": 3,
       "pts": 3,
@@ -289,7 +289,7 @@
       "name": "Isaiah Saville",
       "gp": 9,
       "w": 4,
-      "l": 4,
+      "l": 5,
       "otl": 0,
       "gaa": 2.46,
       "sv_percent": 0.924,
