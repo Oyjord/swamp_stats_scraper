@@ -2,11 +2,11 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 32,
-      "g": 9,
+      "gp": 33,
+      "g": 10,
       "a": 13,
-      "pts": 22,
-      "plus_minus": -6,
+      "pts": 23,
+      "plus_minus": -5,
       "pim": 11
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 36,
+      "gp": 37,
       "g": 4,
-      "a": 13,
-      "pts": 17,
-      "plus_minus": 0,
+      "a": 14,
+      "pts": 18,
+      "plus_minus": 1,
       "pim": 22
     },
     {
@@ -101,11 +101,11 @@
     },
     {
       "name": "Kenta Isogai",
-      "gp": 13,
+      "gp": 14,
       "g": 2,
-      "a": 4,
-      "pts": 6,
-      "plus_minus": -1,
+      "a": 5,
+      "pts": 7,
+      "plus_minus": 0,
       "pim": 0
     },
     {
@@ -119,38 +119,38 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 21,
+      "gp": 22,
       "g": 3,
       "a": 2,
       "pts": 5,
       "plus_minus": -2,
-      "pim": 39
+      "pim": 44
     },
     {
       "name": "Ben Poisson",
-      "gp": 27,
+      "gp": 28,
       "g": 3,
       "a": 2,
       "pts": 5,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 4
     },
     {
       "name": "Jack Brackett",
-      "gp": 34,
+      "gp": 35,
       "g": 3,
       "a": 1,
       "pts": 4,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 8
     },
     {
       "name": "Remy Parker",
-      "gp": 27,
+      "gp": 28,
       "g": 3,
       "a": 0,
       "pts": 3,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 18
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "name": "Josh Atkinson",
-      "gp": 36,
+      "gp": 37,
       "g": 4,
       "a": 13,
       "pts": 17,
@@ -191,12 +191,12 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 36,
+      "gp": 37,
       "g": 2,
       "a": 11,
       "pts": 13,
       "plus_minus": -4,
-      "pim": 27
+      "pim": 29
     },
     {
       "name": "Parker Berge",
