@@ -74,7 +74,7 @@
     },
     {
       "name": "Wade Murphy",
-      "gp": 29,
+      "gp": 30,
       "g": 4,
       "a": 7,
       "pts": 11,
@@ -101,7 +101,7 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 23,
+      "gp": 24,
       "g": 5,
       "a": 2,
       "pts": 7,
@@ -128,7 +128,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 29,
+      "gp": 30,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -137,7 +137,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 36,
+      "gp": 37,
       "g": 3,
       "a": 1,
       "pts": 4,
@@ -146,7 +146,7 @@
     },
     {
       "name": "Remy Parker",
-      "gp": 29,
+      "gp": 30,
       "g": 3,
       "a": 0,
       "pts": 3,
@@ -209,7 +209,7 @@
     },
     {
       "name": "Jake Murray",
-      "gp": 35,
+      "gp": 36,
       "g": 2,
       "a": 10,
       "pts": 12,
@@ -227,7 +227,7 @@
     },
     {
       "name": "Jacob Modry",
-      "gp": 26,
+      "gp": 27,
       "g": 1,
       "a": 4,
       "pts": 5,
@@ -289,10 +289,10 @@
       "w": 6,
       "l": 5,
       "otl": 0,
-      "gaa": 2.25,
+      "gaa": 2.21,
       "sv_percent": 0.925,
-      "min": 639,
-      "ga": 24
+      "min": 705,
+      "ga": 26
     },
     {
       "name": "Mattias Sholl",
