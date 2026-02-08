@@ -25,7 +25,7 @@
       "a": 10,
       "pts": 21,
       "plus_minus": 6,
-      "pim": 40
+      "pim": 50
     },
     {
       "name": "Ryan O'Hara",
@@ -128,7 +128,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 31,
+      "gp": 32,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -298,7 +298,7 @@
       "name": "Mattias Sholl",
       "gp": 20,
       "w": 8,
-      "l": 7,
+      "l": 8,
       "otl": 2,
       "gaa": 2.74,
       "sv_percent": 0.912,
@@ -311,9 +311,9 @@
       "w": 5,
       "l": 4,
       "otl": 2,
-      "gaa": 3.19,
-      "sv_percent": 0.882,
-      "min": 658,
+      "gaa": 3.03,
+      "sv_percent": 0.887,
+      "min": 694,
       "ga": 35
     }
   ]
