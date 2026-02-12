@@ -3,9 +3,9 @@
     {
       "name": "Keaton Mastrodonato",
       "gp": 38,
-      "g": 14,
+      "g": 15,
       "a": 14,
-      "pts": 28,
+      "pts": 29,
       "plus_minus": -4,
       "pim": 13
     },
@@ -29,7 +29,7 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 41,
+      "gp": 42,
       "g": 6,
       "a": 15,
       "pts": 21,
@@ -38,11 +38,11 @@
     },
     {
       "name": "Dante Sheriff",
-      "gp": 29,
+      "gp": 30,
       "g": 8,
       "a": 11,
       "pts": 19,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 16
     },
     {
@@ -56,11 +56,11 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 41,
+      "gp": 42,
       "g": 8,
       "a": 8,
       "pts": 16,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 17
     },
     {
@@ -76,9 +76,9 @@
       "name": "Wade Murphy",
       "gp": 33,
       "g": 5,
-      "a": 9,
-      "pts": 14,
-      "plus_minus": -14,
+      "a": 10,
+      "pts": 15,
+      "plus_minus": -15,
       "pim": 37
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 34,
+      "gp": 35,
       "g": 4,
       "a": 5,
       "pts": 9,
@@ -110,7 +110,7 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 26,
+      "gp": 27,
       "g": 5,
       "a": 3,
       "pts": 8,
@@ -184,8 +184,8 @@
       "name": "Josh Atkinson",
       "gp": 42,
       "g": 6,
-      "a": 22,
-      "pts": 28,
+      "a": 23,
+      "pts": 29,
       "plus_minus": 4,
       "pim": 62
     },
@@ -231,7 +231,7 @@
       "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 14
     },
     {
@@ -249,7 +249,7 @@
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": -21,
+      "plus_minus": -22,
       "pim": 99
     },
     {
@@ -309,12 +309,12 @@
       "name": "Pierce Charleson",
       "gp": 13,
       "w": 5,
-      "l": 4,
+      "l": 5,
       "otl": 2,
-      "gaa": 3.05,
+      "gaa": 3.03,
       "sv_percent": 0.888,
-      "min": 729,
-      "ga": 37
+      "min": 751,
+      "ga": 38
     }
   ]
 }
