@@ -2,16 +2,16 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 38,
+      "gp": 39,
       "g": 15,
-      "a": 14,
-      "pts": 29,
+      "a": 15,
+      "pts": 30,
       "plus_minus": -4,
       "pim": 13
     },
     {
       "name": "Patrick Polino",
-      "gp": 40,
+      "gp": 41,
       "g": 8,
       "a": 15,
       "pts": 23,
@@ -20,11 +20,11 @@
     },
     {
       "name": "Cam Hausinger",
-      "gp": 38,
+      "gp": 39,
       "g": 11,
       "a": 10,
       "pts": 21,
-      "plus_minus": 6,
+      "plus_minus": 5,
       "pim": 50
     },
     {
@@ -38,30 +38,39 @@
     },
     {
       "name": "Dante Sheriff",
-      "gp": 30,
+      "gp": 31,
       "g": 8,
       "a": 11,
       "pts": 19,
       "plus_minus": 1,
-      "pim": 16
+      "pim": 18
     },
     {
       "name": "Hudson Schandor",
-      "gp": 40,
+      "gp": 41,
       "g": 3,
       "a": 14,
       "pts": 17,
-      "plus_minus": 9,
+      "plus_minus": 8,
       "pim": 22
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 42,
+      "gp": 43,
       "g": 8,
       "a": 8,
       "pts": 16,
-      "plus_minus": -5,
+      "plus_minus": -6,
       "pim": 17
+    },
+    {
+      "name": "Wade Murphy",
+      "gp": 34,
+      "g": 6,
+      "a": 10,
+      "pts": 16,
+      "plus_minus": -15,
+      "pim": 37
     },
     {
       "name": "Carter Savoie",
@@ -73,15 +82,6 @@
       "pim": 16
     },
     {
-      "name": "Wade Murphy",
-      "gp": 33,
-      "g": 5,
-      "a": 10,
-      "pts": 15,
-      "plus_minus": -15,
-      "pim": 37
-    },
-    {
       "name": "Tate Singleton",
       "gp": 10,
       "g": 4,
@@ -91,6 +91,15 @@
       "pim": 11
     },
     {
+      "name": "Kenta Isogai",
+      "gp": 20,
+      "g": 2,
+      "a": 8,
+      "pts": 10,
+      "plus_minus": -1,
+      "pim": 4
+    },
+    {
       "name": "Brent Pedersen",
       "gp": 35,
       "g": 4,
@@ -98,15 +107,6 @@
       "pts": 9,
       "plus_minus": 0,
       "pim": 6
-    },
-    {
-      "name": "Kenta Isogai",
-      "gp": 19,
-      "g": 2,
-      "a": 7,
-      "pts": 9,
-      "plus_minus": -1,
-      "pim": 4
     },
     {
       "name": "John Parker-Jones",
@@ -182,20 +182,20 @@
     },
     {
       "name": "Josh Atkinson",
-      "gp": 42,
+      "gp": 43,
       "g": 6,
       "a": 23,
       "pts": 29,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 62
     },
     {
       "name": "Tim Lovell",
-      "gp": 42,
+      "gp": 43,
       "g": 4,
       "a": 13,
       "pts": 17,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 29
     },
     {
@@ -296,13 +296,13 @@
     },
     {
       "name": "Mattias Sholl",
-      "gp": 20,
+      "gp": 21,
       "w": 8,
       "l": 8,
       "otl": 2,
-      "gaa": 2.74,
-      "sv_percent": 0.912,
-      "min": 1049,
+      "gaa": 2.71,
+      "sv_percent": 0.913,
+      "min": 1061,
       "ga": 48
     },
     {
