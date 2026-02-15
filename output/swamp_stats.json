@@ -11,7 +11,7 @@
     },
     {
       "name": "Patrick Polino",
-      "gp": 42,
+      "gp": 43,
       "g": 9,
       "a": 16,
       "pts": 25,
@@ -38,34 +38,34 @@
     },
     {
       "name": "Dante Sheriff",
-      "gp": 32,
+      "gp": 33,
       "g": 8,
       "a": 11,
       "pts": 19,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 18
     },
     {
       "name": "Hudson Schandor",
-      "gp": 42,
-      "g": 3,
+      "gp": 43,
+      "g": 4,
       "a": 15,
-      "pts": 18,
+      "pts": 19,
       "plus_minus": 7,
       "pim": 22
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 44,
+      "gp": 45,
       "g": 9,
       "a": 8,
       "pts": 17,
-      "plus_minus": -8,
+      "plus_minus": -9,
       "pim": 17
     },
     {
       "name": "Wade Murphy",
-      "gp": 35,
+      "gp": 36,
       "g": 6,
       "a": 11,
       "pts": 17,
@@ -110,12 +110,12 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 29,
+      "gp": 30,
       "g": 5,
       "a": 3,
       "pts": 8,
       "plus_minus": -4,
-      "pim": 53
+      "pim": 55
     },
     {
       "name": "Austin Saint",
@@ -128,11 +128,11 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 41,
+      "gp": 42,
       "g": 4,
       "a": 1,
       "pts": 5,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 8
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "name": "Josh Atkinson",
-      "gp": 44,
+      "gp": 45,
       "g": 6,
       "a": 25,
       "pts": 31,
@@ -191,11 +191,11 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 44,
+      "gp": 45,
       "g": 4,
-      "a": 14,
-      "pts": 18,
-      "plus_minus": -3,
+      "a": 15,
+      "pts": 19,
+      "plus_minus": -4,
       "pim": 29
     },
     {
@@ -218,11 +218,11 @@
     },
     {
       "name": "Tristan De Jong",
-      "gp": 25,
+      "gp": 26,
       "g": 1,
       "a": 5,
       "pts": 6,
-      "plus_minus": -8,
+      "plus_minus": -9,
       "pim": 20
     },
     {
@@ -300,14 +300,14 @@
       "w": 8,
       "l": 9,
       "otl": 2,
-      "gaa": 2.76,
+      "gaa": 2.77,
       "sv_percent": 0.911,
-      "min": 1108,
-      "ga": 51
+      "min": 1125,
+      "ga": 52
     },
     {
       "name": "Pierce Charleson",
-      "gp": 14,
+      "gp": 15,
       "w": 5,
       "l": 6,
       "otl": 2,
