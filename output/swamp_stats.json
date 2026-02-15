@@ -146,7 +146,7 @@
     },
     {
       "name": "Remy Parker",
-      "gp": 31,
+      "gp": 32,
       "g": 3,
       "a": 0,
       "pts": 3,
@@ -309,11 +309,11 @@
       "name": "Pierce Charleson",
       "gp": 14,
       "w": 5,
-      "l": 5,
+      "l": 6,
       "otl": 2,
       "gaa": 3.26,
       "sv_percent": 0.882,
-      "min": 809,
+      "min": 810,
       "ga": 44
     }
   ]
