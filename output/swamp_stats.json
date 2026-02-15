@@ -2,11 +2,11 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 40,
+      "gp": 41,
       "g": 15,
       "a": 17,
       "pts": 32,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 13
     },
     {
@@ -20,11 +20,11 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 44,
+      "gp": 45,
       "g": 8,
       "a": 16,
       "pts": 24,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 32
     },
     {
@@ -83,11 +83,11 @@
     },
     {
       "name": "Kenta Isogai",
-      "gp": 21,
+      "gp": 22,
       "g": 3,
-      "a": 10,
-      "pts": 13,
-      "plus_minus": -1,
+      "a": 11,
+      "pts": 14,
+      "plus_minus": -2,
       "pim": 4
     },
     {
@@ -115,7 +115,7 @@
       "a": 3,
       "pts": 8,
       "plus_minus": -4,
-      "pim": 55
+      "pim": 57
     },
     {
       "name": "Austin Saint",
@@ -184,36 +184,36 @@
       "name": "Josh Atkinson",
       "gp": 45,
       "g": 6,
-      "a": 25,
-      "pts": 31,
+      "a": 26,
+      "pts": 32,
       "plus_minus": 5,
       "pim": 62
     },
     {
       "name": "Tim Lovell",
       "gp": 45,
-      "g": 4,
+      "g": 5,
       "a": 15,
-      "pts": 19,
+      "pts": 20,
       "plus_minus": -4,
       "pim": 29
     },
     {
       "name": "Parker Berge",
-      "gp": 38,
+      "gp": 39,
       "g": 6,
       "a": 8,
       "pts": 14,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 33
     },
     {
       "name": "Jake Murray",
-      "gp": 41,
+      "gp": 42,
       "g": 2,
       "a": 10,
       "pts": 12,
-      "plus_minus": 11,
+      "plus_minus": 10,
       "pim": 8
     },
     {
