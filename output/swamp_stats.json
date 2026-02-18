@@ -2,25 +2,25 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 41,
+      "gp": 42,
       "g": 15,
-      "a": 17,
-      "pts": 32,
-      "plus_minus": -4,
+      "a": 18,
+      "pts": 33,
+      "plus_minus": -5,
       "pim": 13
     },
     {
       "name": "Patrick Polino",
-      "gp": 43,
-      "g": 9,
+      "gp": 44,
+      "g": 10,
       "a": 16,
-      "pts": 25,
-      "plus_minus": -6,
+      "pts": 26,
+      "plus_minus": -7,
       "pim": 17
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 45,
+      "gp": 46,
       "g": 8,
       "a": 17,
       "pts": 25,
@@ -29,20 +29,20 @@
     },
     {
       "name": "Cam Hausinger",
-      "gp": 41,
+      "gp": 42,
       "g": 11,
       "a": 10,
       "pts": 21,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 52
     },
     {
       "name": "Dante Sheriff",
-      "gp": 33,
+      "gp": 34,
       "g": 8,
       "a": 12,
       "pts": 20,
-      "plus_minus": -1,
+      "plus_minus": -3,
       "pim": 18
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 45,
+      "gp": 46,
       "g": 9,
       "a": 8,
       "pts": 17,
@@ -70,7 +70,7 @@
       "a": 11,
       "pts": 17,
       "plus_minus": -19,
-      "pim": 37
+      "pim": 39
     },
     {
       "name": "Carter Savoie",
@@ -87,7 +87,7 @@
       "g": 4,
       "a": 11,
       "pts": 15,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 4
     },
     {
@@ -114,7 +114,7 @@
       "g": 5,
       "a": 3,
       "pts": 8,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 57
     },
     {
@@ -141,7 +141,7 @@
       "g": 3,
       "a": 2,
       "pts": 5,
-      "plus_minus": -2,
+      "plus_minus": -4,
       "pim": 4
     },
     {
@@ -184,9 +184,9 @@
       "name": "Josh Atkinson",
       "gp": 46,
       "g": 6,
-      "a": 26,
-      "pts": 32,
-      "plus_minus": 5,
+      "a": 27,
+      "pts": 33,
+      "plus_minus": 4,
       "pim": 67
     },
     {
@@ -195,30 +195,30 @@
       "g": 5,
       "a": 15,
       "pts": 20,
-      "plus_minus": -6,
+      "plus_minus": -7,
       "pim": 29
     },
     {
       "name": "Parker Berge",
-      "gp": 39,
+      "gp": 40,
       "g": 6,
       "a": 8,
       "pts": 14,
-      "plus_minus": -4,
+      "plus_minus": -6,
       "pim": 35
     },
     {
       "name": "Jake Murray",
-      "gp": 42,
+      "gp": 43,
       "g": 2,
       "a": 10,
       "pts": 12,
-      "plus_minus": 11,
+      "plus_minus": 9,
       "pim": 8
     },
     {
       "name": "Tristan De Jong",
-      "gp": 26,
+      "gp": 27,
       "g": 1,
       "a": 5,
       "pts": 6,
@@ -309,12 +309,12 @@
       "name": "Pierce Charleson",
       "gp": 16,
       "w": 5,
-      "l": 6,
+      "l": 7,
       "otl": 3,
-      "gaa": 3.29,
-      "sv_percent": 0.882,
-      "min": 859,
-      "ga": 47
+      "gaa": 3.4,
+      "sv_percent": 0.879,
+      "min": 919,
+      "ga": 52
     }
   ]
 }
