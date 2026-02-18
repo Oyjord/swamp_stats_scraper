@@ -47,11 +47,11 @@
     },
     {
       "name": "Hudson Schandor",
-      "gp": 43,
+      "gp": 44,
       "g": 4,
       "a": 15,
       "pts": 19,
-      "plus_minus": 6,
+      "plus_minus": 5,
       "pim": 22
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "name": "Wade Murphy",
-      "gp": 36,
+      "gp": 37,
       "g": 6,
       "a": 11,
       "pts": 17,
-      "plus_minus": -18,
+      "plus_minus": -19,
       "pim": 37
     },
     {
@@ -83,11 +83,11 @@
     },
     {
       "name": "Kenta Isogai",
-      "gp": 22,
+      "gp": 23,
       "g": 4,
       "a": 11,
       "pts": 15,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 4
     },
     {
@@ -110,12 +110,21 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 30,
+      "gp": 31,
       "g": 5,
       "a": 3,
       "pts": 8,
       "plus_minus": -4,
       "pim": 57
+    },
+    {
+      "name": "Jack Brackett",
+      "gp": 43,
+      "g": 5,
+      "a": 1,
+      "pts": 6,
+      "plus_minus": -2,
+      "pim": 8
     },
     {
       "name": "Austin Saint",
@@ -127,17 +136,8 @@
       "pim": 7
     },
     {
-      "name": "Jack Brackett",
-      "gp": 42,
-      "g": 4,
-      "a": 1,
-      "pts": 5,
-      "plus_minus": -2,
-      "pim": 8
-    },
-    {
       "name": "Ben Poisson",
-      "gp": 33,
+      "gp": 34,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -182,20 +182,20 @@
     },
     {
       "name": "Josh Atkinson",
-      "gp": 45,
+      "gp": 46,
       "g": 6,
       "a": 26,
       "pts": 32,
       "plus_minus": 5,
-      "pim": 62
+      "pim": 67
     },
     {
       "name": "Tim Lovell",
-      "gp": 45,
+      "gp": 46,
       "g": 5,
       "a": 15,
       "pts": 20,
-      "plus_minus": -5,
+      "plus_minus": -6,
       "pim": 29
     },
     {
@@ -227,11 +227,11 @@
     },
     {
       "name": "Jacob Modry",
-      "gp": 31,
+      "gp": 32,
       "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 14
     },
     {
@@ -307,7 +307,7 @@
     },
     {
       "name": "Pierce Charleson",
-      "gp": 15,
+      "gp": 16,
       "w": 5,
       "l": 6,
       "otl": 3,
