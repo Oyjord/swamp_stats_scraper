@@ -2,10 +2,10 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 42,
-      "g": 15,
+      "gp": 43,
+      "g": 16,
       "a": 18,
-      "pts": 33,
+      "pts": 34,
       "plus_minus": -5,
       "pim": 13
     },
@@ -20,11 +20,11 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 46,
+      "gp": 47,
       "g": 8,
-      "a": 17,
-      "pts": 25,
-      "plus_minus": 1,
+      "a": 18,
+      "pts": 26,
+      "plus_minus": 2,
       "pim": 32
     },
     {
@@ -38,11 +38,11 @@
     },
     {
       "name": "Dante Sheriff",
-      "gp": 34,
+      "gp": 35,
       "g": 8,
-      "a": 12,
-      "pts": 20,
-      "plus_minus": -3,
+      "a": 13,
+      "pts": 21,
+      "plus_minus": -2,
       "pim": 18
     },
     {
@@ -65,12 +65,12 @@
     },
     {
       "name": "Wade Murphy",
-      "gp": 37,
+      "gp": 38,
       "g": 6,
       "a": 11,
       "pts": 17,
-      "plus_minus": -19,
-      "pim": 39
+      "plus_minus": -20,
+      "pim": 43
     },
     {
       "name": "Carter Savoie",
@@ -83,11 +83,11 @@
     },
     {
       "name": "Kenta Isogai",
-      "gp": 23,
+      "gp": 24,
       "g": 4,
       "a": 11,
       "pts": 15,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 4
     },
     {
@@ -110,12 +110,12 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 31,
+      "gp": 32,
       "g": 5,
       "a": 3,
       "pts": 8,
       "plus_minus": -5,
-      "pim": 57
+      "pim": 59
     },
     {
       "name": "Jack Brackett",
@@ -191,29 +191,29 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 46,
+      "gp": 47,
       "g": 5,
       "a": 15,
       "pts": 20,
-      "plus_minus": -7,
+      "plus_minus": -6,
       "pim": 29
     },
     {
       "name": "Parker Berge",
-      "gp": 40,
+      "gp": 41,
       "g": 6,
       "a": 8,
       "pts": 14,
-      "plus_minus": -6,
+      "plus_minus": -7,
       "pim": 35
     },
     {
       "name": "Jake Murray",
-      "gp": 43,
+      "gp": 44,
       "g": 2,
       "a": 10,
       "pts": 12,
-      "plus_minus": 9,
+      "plus_minus": 8,
       "pim": 8
     },
     {
@@ -227,11 +227,11 @@
     },
     {
       "name": "Jacob Modry",
-      "gp": 32,
+      "gp": 33,
       "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": -4,
+      "plus_minus": -3,
       "pim": 14
     },
     {
@@ -307,7 +307,7 @@
     },
     {
       "name": "Pierce Charleson",
-      "gp": 16,
+      "gp": 17,
       "w": 5,
       "l": 7,
       "otl": 3,
