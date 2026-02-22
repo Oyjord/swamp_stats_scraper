@@ -6,16 +6,16 @@
       "g": 17,
       "a": 19,
       "pts": 36,
-      "plus_minus": -4,
+      "plus_minus": -3,
       "pim": 15
     },
     {
       "name": "Ryan O'Hara",
       "gp": 49,
       "g": 8,
-      "a": 19,
-      "pts": 27,
-      "plus_minus": 1,
+      "a": 20,
+      "pts": 28,
+      "plus_minus": 2,
       "pim": 32
     },
     {
@@ -24,17 +24,17 @@
       "g": 10,
       "a": 16,
       "pts": 26,
-      "plus_minus": -10,
+      "plus_minus": -11,
       "pim": 17
     },
     {
       "name": "Cam Hausinger",
-      "gp": 44,
-      "g": 12,
+      "gp": 45,
+      "g": 13,
       "a": 10,
-      "pts": 22,
+      "pts": 23,
       "plus_minus": -1,
-      "pim": 54
+      "pim": 58
     },
     {
       "name": "Dante Sheriff",
@@ -42,16 +42,16 @@
       "g": 8,
       "a": 14,
       "pts": 22,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 18
     },
     {
       "name": "Hudson Schandor",
       "gp": 47,
-      "g": 4,
-      "a": 16,
-      "pts": 20,
-      "plus_minus": 5,
+      "g": 5,
+      "a": 17,
+      "pts": 22,
+      "plus_minus": 6,
       "pim": 22
     },
     {
@@ -114,7 +114,7 @@
       "g": 5,
       "a": 3,
       "pts": 8,
-      "plus_minus": -6,
+      "plus_minus": -7,
       "pim": 69
     },
     {
@@ -182,20 +182,20 @@
     },
     {
       "name": "Josh Atkinson",
-      "gp": 48,
+      "gp": 49,
       "g": 6,
       "a": 28,
       "pts": 34,
-      "plus_minus": 1,
+      "plus_minus": 2,
       "pim": 74
     },
     {
       "name": "Tim Lovell",
-      "gp": 48,
+      "gp": 49,
       "g": 5,
-      "a": 16,
-      "pts": 21,
-      "plus_minus": -7,
+      "a": 18,
+      "pts": 23,
+      "plus_minus": -6,
       "pim": 33
     },
     {
@@ -222,7 +222,7 @@
       "g": 1,
       "a": 6,
       "pts": 7,
-      "plus_minus": -10,
+      "plus_minus": -11,
       "pim": 25
     },
     {
@@ -231,7 +231,7 @@
       "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 14
     },
     {
@@ -285,14 +285,14 @@
     },
     {
       "name": "Isaiah Saville",
-      "gp": 14,
+      "gp": 15,
       "w": 7,
       "l": 5,
       "otl": 0,
-      "gaa": 2.31,
-      "sv_percent": 0.924,
-      "min": 780,
-      "ga": 30
+      "gaa": 2.34,
+      "sv_percent": 0.922,
+      "min": 795,
+      "ga": 31
     },
     {
       "name": "Mattias Sholl",
@@ -311,10 +311,10 @@
       "w": 6,
       "l": 7,
       "otl": 3,
-      "gaa": 3.31,
-      "sv_percent": 0.883,
-      "min": 980,
-      "ga": 54
+      "gaa": 3.36,
+      "sv_percent": 0.881,
+      "min": 1000,
+      "ga": 56
     }
   ]
 }
