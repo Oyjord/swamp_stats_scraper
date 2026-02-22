@@ -4,8 +4,8 @@
       "name": "Keaton Mastrodonato",
       "gp": 44,
       "g": 17,
-      "a": 18,
-      "pts": 35,
+      "a": 19,
+      "pts": 36,
       "plus_minus": -3,
       "pim": 13
     },
@@ -20,29 +20,29 @@
     },
     {
       "name": "Patrick Polino",
-      "gp": 45,
+      "gp": 46,
       "g": 10,
       "a": 16,
       "pts": 26,
-      "plus_minus": -9,
+      "plus_minus": -8,
       "pim": 17
     },
     {
       "name": "Cam Hausinger",
       "gp": 44,
-      "g": 11,
+      "g": 12,
       "a": 10,
-      "pts": 21,
-      "plus_minus": -1,
-      "pim": 52
+      "pts": 22,
+      "plus_minus": 0,
+      "pim": 54
     },
     {
       "name": "Dante Sheriff",
-      "gp": 35,
+      "gp": 36,
       "g": 8,
-      "a": 13,
-      "pts": 21,
-      "plus_minus": -3,
+      "a": 14,
+      "pts": 22,
+      "plus_minus": -2,
       "pim": 18
     },
     {
@@ -57,9 +57,9 @@
     {
       "name": "Wade Murphy",
       "gp": 39,
-      "g": 7,
+      "g": 8,
       "a": 11,
-      "pts": 18,
+      "pts": 19,
       "plus_minus": -19,
       "pim": 43
     },
@@ -184,8 +184,8 @@
       "name": "Josh Atkinson",
       "gp": 48,
       "g": 6,
-      "a": 27,
-      "pts": 33,
+      "a": 28,
+      "pts": 34,
       "plus_minus": 3,
       "pim": 74
     },
@@ -204,16 +204,16 @@
       "g": 6,
       "a": 9,
       "pts": 15,
-      "plus_minus": -5,
+      "plus_minus": -4,
       "pim": 35
     },
     {
       "name": "Jake Murray",
       "gp": 45,
       "g": 2,
-      "a": 11,
-      "pts": 13,
-      "plus_minus": 9,
+      "a": 12,
+      "pts": 14,
+      "plus_minus": 10,
       "pim": 8
     },
     {
@@ -223,7 +223,7 @@
       "a": 6,
       "pts": 7,
       "plus_minus": -9,
-      "pim": 20
+      "pim": 25
     },
     {
       "name": "Jacob Modry",
@@ -289,10 +289,10 @@
       "w": 6,
       "l": 5,
       "otl": 0,
-      "gaa": 2.19,
+      "gaa": 2.22,
       "sv_percent": 0.927,
-      "min": 740,
-      "ga": 27
+      "min": 757,
+      "ga": 28
     },
     {
       "name": "Mattias Sholl",
