@@ -38,11 +38,11 @@
     },
     {
       "name": "Dante Sheriff",
-      "gp": 37,
+      "gp": 38,
       "g": 8,
       "a": 14,
       "pts": 22,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 18
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 49,
+      "gp": 50,
       "g": 9,
       "a": 8,
       "pts": 17,
-      "plus_minus": -10,
+      "plus_minus": -11,
       "pim": 17
     },
     {
@@ -119,11 +119,11 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 46,
+      "gp": 47,
       "g": 6,
       "a": 1,
       "pts": 7,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 8
     },
     {
@@ -200,11 +200,11 @@
     },
     {
       "name": "Parker Berge",
-      "gp": 43,
+      "gp": 44,
       "g": 6,
       "a": 9,
       "pts": 15,
-      "plus_minus": -5,
+      "plus_minus": -6,
       "pim": 35
     },
     {
@@ -218,11 +218,11 @@
     },
     {
       "name": "Tristan De Jong",
-      "gp": 30,
+      "gp": 31,
       "g": 1,
       "a": 6,
       "pts": 7,
-      "plus_minus": -11,
+      "plus_minus": -12,
       "pim": 25
     },
     {
@@ -285,7 +285,7 @@
     },
     {
       "name": "Isaiah Saville",
-      "gp": 15,
+      "gp": 16,
       "w": 7,
       "l": 6,
       "otl": 0,
