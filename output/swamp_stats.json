@@ -38,11 +38,11 @@
     },
     {
       "name": "Hudson Schandor",
-      "gp": 49,
+      "gp": 50,
       "g": 5,
       "a": 19,
       "pts": 24,
-      "plus_minus": 3,
+      "plus_minus": 1,
       "pim": 24
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "name": "Wade Murphy",
-      "gp": 42,
+      "gp": 43,
       "g": 9,
       "a": 12,
       "pts": 21,
-      "plus_minus": -21,
+      "plus_minus": -23,
       "pim": 43
     },
     {
@@ -83,11 +83,11 @@
     },
     {
       "name": "Kenta Isogai",
-      "gp": 27,
+      "gp": 28,
       "g": 5,
       "a": 12,
       "pts": 17,
-      "plus_minus": -2,
+      "plus_minus": -4,
       "pim": 4
     },
     {
@@ -191,29 +191,29 @@
     },
     {
       "name": "Josh Atkinson",
-      "gp": 49,
+      "gp": 50,
       "g": 6,
       "a": 28,
       "pts": 34,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 74
     },
     {
       "name": "Tim Lovell",
-      "gp": 51,
+      "gp": 52,
       "g": 6,
       "a": 19,
       "pts": 25,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 35
     },
     {
       "name": "Parker Berge",
-      "gp": 45,
+      "gp": 46,
       "g": 6,
       "a": 9,
       "pts": 15,
-      "plus_minus": -9,
+      "plus_minus": -10,
       "pim": 35
     },
     {
@@ -254,12 +254,12 @@
     },
     {
       "name": "Cole Fraser",
-      "gp": 38,
+      "gp": 39,
       "g": 0,
       "a": 3,
       "pts": 3,
-      "plus_minus": -23,
-      "pim": 104
+      "plus_minus": -24,
+      "pim": 106
     },
     {
       "name": "Jordan Power",
@@ -294,7 +294,7 @@
     },
     {
       "name": "Isaiah Saville",
-      "gp": 17,
+      "gp": 18,
       "w": 8,
       "l": 7,
       "otl": 0,
