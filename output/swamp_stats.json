@@ -29,12 +29,12 @@
     },
     {
       "name": "Dante Sheriff",
-      "gp": 40,
+      "gp": 41,
       "g": 9,
       "a": 15,
       "pts": 24,
       "plus_minus": -6,
-      "pim": 20
+      "pim": 32
     },
     {
       "name": "Hudson Schandor",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Cam Hausinger",
-      "gp": 45,
+      "gp": 46,
       "g": 13,
       "a": 10,
       "pts": 23,
@@ -56,7 +56,7 @@
     },
     {
       "name": "Neil Shea",
-      "gp": 32,
+      "gp": 33,
       "g": 8,
       "a": 15,
       "pts": 23,
@@ -65,7 +65,7 @@
     },
     {
       "name": "Wade Murphy",
-      "gp": 43,
+      "gp": 44,
       "g": 9,
       "a": 12,
       "pts": 21,
@@ -128,7 +128,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 49,
+      "gp": 50,
       "g": 6,
       "a": 1,
       "pts": 7,
@@ -146,7 +146,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 37,
+      "gp": 38,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -209,7 +209,7 @@
     },
     {
       "name": "Parker Berge",
-      "gp": 46,
+      "gp": 47,
       "g": 6,
       "a": 9,
       "pts": 15,
@@ -296,12 +296,12 @@
       "name": "Isaiah Saville",
       "gp": 19,
       "w": 8,
-      "l": 8,
+      "l": 9,
       "otl": 0,
-      "gaa": 2.57,
+      "gaa": 2.6,
       "sv_percent": 0.911,
-      "min": 1028,
-      "ga": 44
+      "min": 1060,
+      "ga": 46
     },
     {
       "name": "Mattias Sholl",
