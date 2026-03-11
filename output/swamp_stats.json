@@ -38,7 +38,7 @@
     },
     {
       "name": "Dante Sheriff",
-      "gp": 41,
+      "gp": 42,
       "g": 9,
       "a": 15,
       "pts": 24,
@@ -74,7 +74,7 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 53,
+      "gp": 54,
       "g": 9,
       "a": 9,
       "pts": 18,
@@ -101,7 +101,7 @@
     },
     {
       "name": "Brent Pedersen",
-      "gp": 42,
+      "gp": 43,
       "g": 5,
       "a": 6,
       "pts": 11,
@@ -296,12 +296,12 @@
       "name": "Isaiah Saville",
       "gp": 20,
       "w": 8,
-      "l": 9,
+      "l": 10,
       "otl": 0,
-      "gaa": 2.6,
-      "sv_percent": 0.911,
-      "min": 1062,
-      "ga": 46
+      "gaa": 2.63,
+      "sv_percent": 0.91,
+      "min": 1118,
+      "ga": 49
     },
     {
       "name": "Mattias Sholl",
