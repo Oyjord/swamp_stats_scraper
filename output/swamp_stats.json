@@ -15,8 +15,17 @@
       "g": 11,
       "a": 22,
       "pts": 33,
-      "plus_minus": 2,
+      "plus_minus": 3,
       "pim": 32
+    },
+    {
+      "name": "Patrick Polino",
+      "gp": 54,
+      "g": 10,
+      "a": 17,
+      "pts": 27,
+      "plus_minus": -18,
+      "pim": 21
     },
     {
       "name": "Dante Sheriff",
@@ -28,21 +37,12 @@
       "pim": 34
     },
     {
-      "name": "Patrick Polino",
-      "gp": 53,
-      "g": 10,
-      "a": 16,
-      "pts": 26,
-      "plus_minus": -19,
-      "pim": 21
-    },
-    {
       "name": "Neil Shea",
       "gp": 36,
       "g": 9,
-      "a": 16,
-      "pts": 25,
-      "plus_minus": 2,
+      "a": 17,
+      "pts": 26,
+      "plus_minus": 3,
       "pim": 12
     },
     {
@@ -66,10 +66,10 @@
     {
       "name": "Wade Murphy",
       "gp": 47,
-      "g": 10,
+      "g": 11,
       "a": 12,
-      "pts": 22,
-      "plus_minus": -22,
+      "pts": 23,
+      "plus_minus": -21,
       "pim": 45
     },
     {
@@ -118,22 +118,22 @@
       "pim": 11
     },
     {
+      "name": "Jack Brackett",
+      "gp": 53,
+      "g": 7,
+      "a": 1,
+      "pts": 8,
+      "plus_minus": -2,
+      "pim": 8
+    },
+    {
       "name": "John Parker-Jones",
       "gp": 41,
       "g": 5,
       "a": 3,
       "pts": 8,
-      "plus_minus": -11,
+      "plus_minus": -10,
       "pim": 71
-    },
-    {
-      "name": "Jack Brackett",
-      "gp": 53,
-      "g": 6,
-      "a": 1,
-      "pts": 7,
-      "plus_minus": -3,
-      "pim": 8
     },
     {
       "name": "Austin Saint",
@@ -213,7 +213,7 @@
       "g": 6,
       "a": 29,
       "pts": 35,
-      "plus_minus": -4,
+      "plus_minus": -2,
       "pim": 74
     },
     {
@@ -232,15 +232,15 @@
       "a": 10,
       "pts": 16,
       "plus_minus": -11,
-      "pim": 37
+      "pim": 39
     },
     {
       "name": "Jake Murray",
       "gp": 48,
       "g": 2,
-      "a": 12,
-      "pts": 14,
-      "plus_minus": 8,
+      "a": 14,
+      "pts": 16,
+      "plus_minus": 10,
       "pim": 8
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "name": "Tim Rego",
-      "gp": 16,
+      "gp": 17,
       "g": 2,
       "a": 2,
       "pts": 4,
@@ -335,13 +335,13 @@
     {
       "name": "Pierce Charleson",
       "gp": 19,
-      "w": 6,
+      "w": 7,
       "l": 7,
       "otl": 3,
-      "gaa": 3.36,
+      "gaa": 3.34,
       "sv_percent": 0.881,
-      "min": 1000,
-      "ga": 56
+      "min": 1060,
+      "ga": 59
     }
   ]
 }
