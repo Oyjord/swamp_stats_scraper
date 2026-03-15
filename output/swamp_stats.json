@@ -28,6 +28,15 @@
       "pim": 21
     },
     {
+      "name": "Neil Shea",
+      "gp": 36,
+      "g": 9,
+      "a": 18,
+      "pts": 27,
+      "plus_minus": 3,
+      "pim": 12
+    },
+    {
       "name": "Dante Sheriff",
       "gp": 44,
       "g": 10,
@@ -35,15 +44,6 @@
       "pts": 26,
       "plus_minus": -6,
       "pim": 34
-    },
-    {
-      "name": "Neil Shea",
-      "gp": 36,
-      "g": 9,
-      "a": 17,
-      "pts": 26,
-      "plus_minus": 3,
-      "pim": 12
     },
     {
       "name": "Hudson Schandor",
@@ -220,8 +220,8 @@
       "name": "Tim Lovell",
       "gp": 56,
       "g": 6,
-      "a": 21,
-      "pts": 27,
+      "a": 22,
+      "pts": 28,
       "plus_minus": -5,
       "pim": 37
     },
