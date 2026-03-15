@@ -61,20 +61,20 @@
       "a": 10,
       "pts": 23,
       "plus_minus": -2,
-      "pim": 58
+      "pim": 63
     },
     {
       "name": "Wade Murphy",
-      "gp": 47,
+      "gp": 48,
       "g": 11,
       "a": 12,
       "pts": 23,
       "plus_minus": -21,
-      "pim": 45
+      "pim": 47
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 56,
+      "gp": 57,
       "g": 9,
       "a": 9,
       "pts": 18,
@@ -119,7 +119,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 53,
+      "gp": 54,
       "g": 7,
       "a": 1,
       "pts": 8,
@@ -190,7 +190,7 @@
       "pim": 0
     },
     {
-      "name": "Caiden Gault",
+      "name": "Josh Zary",
       "gp": 2,
       "g": 0,
       "a": 0,
@@ -199,13 +199,13 @@
       "pim": 0
     },
     {
-      "name": "Josh Zary",
-      "gp": 2,
+      "name": "Caiden Gault",
+      "gp": 3,
       "g": 0,
       "a": 0,
       "pts": 0,
       "plus_minus": -1,
-      "pim": 0
+      "pim": 2
     },
     {
       "name": "Josh Atkinson",
@@ -227,7 +227,7 @@
     },
     {
       "name": "Parker Berge",
-      "gp": 50,
+      "gp": 51,
       "g": 6,
       "a": 10,
       "pts": 16,
