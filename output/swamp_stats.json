@@ -137,12 +137,12 @@
     },
     {
       "name": "John Parker-Jones",
-      "gp": 43,
+      "gp": 44,
       "g": 5,
       "a": 3,
       "pts": 8,
       "plus_minus": -9,
-      "pim": 71
+      "pim": 73
     },
     {
       "name": "Austin Saint",
@@ -191,12 +191,12 @@
     },
     {
       "name": "Josh Zary",
-      "gp": 4,
+      "gp": 5,
       "g": 0,
       "a": 1,
       "pts": 1,
       "plus_minus": 0,
-      "pim": 0
+      "pim": 2
     },
     {
       "name": "Bryan Moore",
@@ -352,7 +352,7 @@
     },
     {
       "name": "Pierce Charleson",
-      "gp": 19,
+      "gp": 20,
       "w": 7,
       "l": 7,
       "otl": 3,
