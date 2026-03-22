@@ -6,8 +6,8 @@
       "g": 20,
       "a": 22,
       "pts": 42,
-      "plus_minus": -1,
-      "pim": 15
+      "plus_minus": -2,
+      "pim": 17
     },
     {
       "name": "Ryan O'Hara",
@@ -15,16 +15,16 @@
       "g": 13,
       "a": 23,
       "pts": 36,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 34
     },
     {
       "name": "Denis Smirnov",
-      "gp": 55,
+      "gp": 56,
       "g": 15,
       "a": 20,
       "pts": 35,
-      "plus_minus": 10,
+      "plus_minus": 9,
       "pim": 20
     },
     {
@@ -33,7 +33,7 @@
       "g": 10,
       "a": 19,
       "pts": 29,
-      "plus_minus": 6,
+      "plus_minus": 5,
       "pim": 16
     },
     {
@@ -272,11 +272,11 @@
     },
     {
       "name": "Tim Rego",
-      "gp": 20,
+      "gp": 21,
       "g": 3,
       "a": 3,
       "pts": 6,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 0
     },
     {
@@ -356,10 +356,10 @@
       "w": 8,
       "l": 7,
       "otl": 3,
-      "gaa": 3.16,
-      "sv_percent": 0.887,
-      "min": 1120,
-      "ga": 59
+      "gaa": 3.14,
+      "sv_percent": 0.889,
+      "min": 1146,
+      "ga": 60
     }
   ]
 }
