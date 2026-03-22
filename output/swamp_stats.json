@@ -2,20 +2,20 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 50,
+      "gp": 51,
       "g": 20,
       "a": 22,
       "pts": 42,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 15
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 59,
+      "gp": 60,
       "g": 13,
       "a": 23,
       "pts": 36,
-      "plus_minus": 5,
+      "plus_minus": 4,
       "pim": 34
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "name": "Neil Shea",
-      "gp": 39,
+      "gp": 40,
       "g": 10,
       "a": 19,
       "pts": 29,
-      "plus_minus": 7,
+      "plus_minus": 6,
       "pim": 16
     },
     {
@@ -191,12 +191,12 @@
     },
     {
       "name": "Josh Zary",
-      "gp": 5,
+      "gp": 6,
       "g": 0,
       "a": 1,
       "pts": 1,
       "plus_minus": 0,
-      "pim": 2
+      "pim": 4
     },
     {
       "name": "Bryan Moore",
@@ -245,11 +245,11 @@
     },
     {
       "name": "Jake Murray",
-      "gp": 51,
+      "gp": 52,
       "g": 2,
       "a": 16,
       "pts": 18,
-      "plus_minus": 12,
+      "plus_minus": 11,
       "pim": 8
     },
     {
@@ -263,11 +263,11 @@
     },
     {
       "name": "Tristan De Jong",
-      "gp": 37,
+      "gp": 38,
       "g": 1,
       "a": 6,
       "pts": 7,
-      "plus_minus": -15,
+      "plus_minus": -16,
       "pim": 27
     },
     {
@@ -290,12 +290,12 @@
     },
     {
       "name": "Cole Fraser",
-      "gp": 46,
+      "gp": 47,
       "g": 0,
       "a": 4,
       "pts": 4,
       "plus_minus": -26,
-      "pim": 131
+      "pim": 133
     },
     {
       "name": "Jordan Power",
@@ -352,7 +352,7 @@
     },
     {
       "name": "Pierce Charleson",
-      "gp": 20,
+      "gp": 21,
       "w": 8,
       "l": 7,
       "otl": 3,
