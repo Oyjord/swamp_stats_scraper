@@ -2,12 +2,21 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 49,
+      "gp": 50,
       "g": 20,
-      "a": 21,
-      "pts": 41,
+      "a": 22,
+      "pts": 42,
       "plus_minus": 0,
       "pim": 15
+    },
+    {
+      "name": "Ryan O'Hara",
+      "gp": 59,
+      "g": 13,
+      "a": 23,
+      "pts": 36,
+      "plus_minus": 5,
+      "pim": 34
     },
     {
       "name": "Denis Smirnov",
@@ -17,15 +26,6 @@
       "pts": 35,
       "plus_minus": 10,
       "pim": 20
-    },
-    {
-      "name": "Ryan O'Hara",
-      "gp": 59,
-      "g": 12,
-      "a": 23,
-      "pts": 35,
-      "plus_minus": 5,
-      "pim": 34
     },
     {
       "name": "Neil Shea",
@@ -83,7 +83,7 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 58,
+      "gp": 59,
       "g": 10,
       "a": 9,
       "pts": 19,
@@ -128,7 +128,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 55,
+      "gp": 56,
       "g": 7,
       "a": 1,
       "pts": 8,
@@ -182,7 +182,7 @@
     },
     {
       "name": "Connor Milburn",
-      "gp": 4,
+      "gp": 5,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -236,7 +236,7 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 58,
+      "gp": 59,
       "g": 6,
       "a": 23,
       "pts": 29,
@@ -256,8 +256,8 @@
       "name": "Parker Berge",
       "gp": 53,
       "g": 6,
-      "a": 10,
-      "pts": 16,
+      "a": 11,
+      "pts": 17,
       "plus_minus": -10,
       "pim": 41
     },
@@ -353,12 +353,12 @@
     {
       "name": "Pierce Charleson",
       "gp": 20,
-      "w": 7,
+      "w": 8,
       "l": 7,
       "otl": 3,
-      "gaa": 3.17,
+      "gaa": 3.16,
       "sv_percent": 0.887,
-      "min": 1118,
+      "min": 1120,
       "ga": 59
     }
   ]
