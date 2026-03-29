@@ -20,12 +20,12 @@
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 60,
+      "gp": 61,
       "g": 13,
       "a": 23,
       "pts": 36,
       "plus_minus": 3,
-      "pim": 34
+      "pim": 36
     },
     {
       "name": "Neil Shea",
@@ -127,6 +127,15 @@
       "pim": 11
     },
     {
+      "name": "John Parker-Jones",
+      "gp": 46,
+      "g": 5,
+      "a": 4,
+      "pts": 9,
+      "plus_minus": -7,
+      "pim": 73
+    },
+    {
       "name": "Jack Brackett",
       "gp": 57,
       "g": 7,
@@ -134,15 +143,6 @@
       "pts": 8,
       "plus_minus": -3,
       "pim": 8
-    },
-    {
-      "name": "John Parker-Jones",
-      "gp": 45,
-      "g": 5,
-      "a": 3,
-      "pts": 8,
-      "plus_minus": -8,
-      "pim": 73
     },
     {
       "name": "Austin Saint",
@@ -172,6 +172,15 @@
       "pim": 18
     },
     {
+      "name": "Josh Zary",
+      "gp": 7,
+      "g": 1,
+      "a": 1,
+      "pts": 2,
+      "plus_minus": 1,
+      "pim": 4
+    },
+    {
       "name": "Stepan Timofeyev",
       "gp": 3,
       "g": 1,
@@ -188,15 +197,6 @@
       "pts": 1,
       "plus_minus": -1,
       "pim": 0
-    },
-    {
-      "name": "Josh Zary",
-      "gp": 6,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 0,
-      "pim": 4
     },
     {
       "name": "Bryan Moore",
@@ -218,11 +218,11 @@
     },
     {
       "name": "Caiden Gault",
-      "gp": 6,
+      "gp": 7,
       "g": 0,
       "a": 0,
       "pts": 0,
-      "plus_minus": -1,
+      "plus_minus": 0,
       "pim": 4
     },
     {
@@ -236,11 +236,11 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 60,
+      "gp": 61,
       "g": 6,
       "a": 23,
       "pts": 29,
-      "plus_minus": -7,
+      "plus_minus": -6,
       "pim": 39
     },
     {
@@ -290,11 +290,11 @@
     },
     {
       "name": "Cole Fraser",
-      "gp": 47,
+      "gp": 48,
       "g": 0,
-      "a": 4,
-      "pts": 4,
-      "plus_minus": -26,
+      "a": 5,
+      "pts": 5,
+      "plus_minus": -25,
       "pim": 133
     },
     {
@@ -330,7 +330,7 @@
     },
     {
       "name": "Isaiah Saville",
-      "gp": 23,
+      "gp": 24,
       "w": 8,
       "l": 11,
       "otl": 2,
