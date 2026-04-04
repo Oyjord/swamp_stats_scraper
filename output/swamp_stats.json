@@ -11,7 +11,7 @@
     },
     {
       "name": "Denis Smirnov",
-      "gp": 59,
+      "gp": 60,
       "g": 16,
       "a": 22,
       "pts": 38,
@@ -24,7 +24,7 @@
       "g": 14,
       "a": 23,
       "pts": 37,
-      "plus_minus": 2,
+      "plus_minus": 3,
       "pim": 40
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "Wade Murphy",
-      "gp": 54,
+      "gp": 55,
       "g": 12,
       "a": 13,
       "pts": 25,
@@ -155,7 +155,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 43,
+      "gp": 44,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -173,7 +173,7 @@
     },
     {
       "name": "Josh Zary",
-      "gp": 9,
+      "gp": 10,
       "g": 1,
       "a": 2,
       "pts": 3,
@@ -191,7 +191,7 @@
     },
     {
       "name": "Connor Milburn",
-      "gp": 8,
+      "gp": 9,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -267,7 +267,7 @@
       "g": 4,
       "a": 4,
       "pts": 8,
-      "plus_minus": 0,
+      "plus_minus": 1,
       "pim": 2
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "name": "Joe Prouty",
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -340,13 +340,13 @@
     {
       "name": "Isaiah Saville",
       "gp": 26,
-      "w": 9,
+      "w": 10,
       "l": 12,
       "otl": 2,
-      "gaa": 2.53,
-      "sv_percent": 0.914,
-      "min": 1423,
-      "ga": 60
+      "gaa": 2.51,
+      "sv_percent": 0.915,
+      "min": 1483,
+      "ga": 62
     },
     {
       "name": "Mattias Sholl",
