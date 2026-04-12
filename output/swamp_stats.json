@@ -6,7 +6,7 @@
       "g": 26,
       "a": 23,
       "pts": 49,
-      "plus_minus": -8,
+      "plus_minus": -10,
       "pim": 24
     },
     {
@@ -33,7 +33,7 @@
       "g": 10,
       "a": 24,
       "pts": 34,
-      "plus_minus": -3,
+      "plus_minus": -5,
       "pim": 20
     },
     {
@@ -42,7 +42,7 @@
       "g": 10,
       "a": 20,
       "pts": 30,
-      "plus_minus": -20,
+      "plus_minus": -22,
       "pim": 27
     },
     {
@@ -146,12 +146,12 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 48,
+      "gp": 49,
       "g": 5,
       "a": 2,
       "pts": 7,
       "plus_minus": -5,
-      "pim": 4
+      "pim": 6
     },
     {
       "name": "Austin Saint",
@@ -164,11 +164,11 @@
     },
     {
       "name": "Caiden Gault",
-      "gp": 12,
+      "gp": 13,
       "g": 2,
       "a": 3,
       "pts": 5,
-      "plus_minus": 5,
+      "plus_minus": 4,
       "pim": 4
     },
     {
@@ -191,11 +191,11 @@
     },
     {
       "name": "Connor Milburn",
-      "gp": 12,
+      "gp": 13,
       "g": 0,
       "a": 3,
       "pts": 3,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 2
     },
     {
@@ -245,11 +245,11 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 68,
+      "gp": 69,
       "g": 6,
       "a": 26,
       "pts": 32,
-      "plus_minus": -11,
+      "plus_minus": -13,
       "pim": 41
     },
     {
@@ -258,16 +258,16 @@
       "g": 8,
       "a": 15,
       "pts": 23,
-      "plus_minus": -11,
+      "plus_minus": -12,
       "pim": 47
     },
     {
       "name": "Jake Murray",
-      "gp": 60,
+      "gp": 61,
       "g": 2,
       "a": 16,
       "pts": 18,
-      "plus_minus": 11,
+      "plus_minus": 10,
       "pim": 8
     },
     {
@@ -276,7 +276,7 @@
       "g": 5,
       "a": 5,
       "pts": 10,
-      "plus_minus": -7,
+      "plus_minus": -8,
       "pim": 2
     },
     {
@@ -308,20 +308,20 @@
     },
     {
       "name": "Joe Prouty",
-      "gp": 6,
+      "gp": 7,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 2
     },
     {
       "name": "Michael Mastrodomenico",
-      "gp": 2,
+      "gp": 3,
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 2
     },
     {
@@ -368,7 +368,7 @@
     },
     {
       "name": "Simon Latkoczy",
-      "gp": 2,
+      "gp": 3,
       "w": 0,
       "l": 1,
       "otl": 0,
@@ -394,10 +394,10 @@
       "w": 8,
       "l": 11,
       "otl": 3,
-      "gaa": 3.24,
-      "sv_percent": 0.883,
-      "min": 1334,
-      "ga": 72
+      "gaa": 3.35,
+      "sv_percent": 0.879,
+      "min": 1362,
+      "ga": 76
     }
   ]
 }
