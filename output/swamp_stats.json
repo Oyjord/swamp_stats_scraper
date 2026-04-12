@@ -15,7 +15,7 @@
       "g": 17,
       "a": 23,
       "pts": 40,
-      "plus_minus": 6,
+      "plus_minus": 7,
       "pim": 24
     },
     {
@@ -24,7 +24,7 @@
       "g": 14,
       "a": 24,
       "pts": 38,
-      "plus_minus": -1,
+      "plus_minus": 0,
       "pim": 40
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "name": "Ryan O'Reilly",
-      "gp": 67,
+      "gp": 68,
       "g": 11,
       "a": 11,
       "pts": 22,
@@ -128,7 +128,7 @@
     },
     {
       "name": "Jack Brackett",
-      "gp": 64,
+      "gp": 65,
       "g": 9,
       "a": 1,
       "pts": 10,
@@ -146,7 +146,7 @@
     },
     {
       "name": "Ben Poisson",
-      "gp": 47,
+      "gp": 48,
       "g": 5,
       "a": 2,
       "pts": 7,
@@ -164,7 +164,7 @@
     },
     {
       "name": "Caiden Gault",
-      "gp": 11,
+      "gp": 12,
       "g": 2,
       "a": 3,
       "pts": 5,
@@ -173,7 +173,7 @@
     },
     {
       "name": "Josh Zary",
-      "gp": 13,
+      "gp": 14,
       "g": 1,
       "a": 4,
       "pts": 5,
@@ -191,7 +191,7 @@
     },
     {
       "name": "Connor Milburn",
-      "gp": 11,
+      "gp": 12,
       "g": 0,
       "a": 3,
       "pts": 3,
@@ -267,7 +267,7 @@
       "g": 2,
       "a": 16,
       "pts": 18,
-      "plus_minus": 10,
+      "plus_minus": 11,
       "pim": 8
     },
     {
@@ -367,6 +367,17 @@
       "ga": 65
     },
     {
+      "name": "Simon Latkoczy",
+      "gp": 2,
+      "w": 0,
+      "l": 1,
+      "otl": 0,
+      "gaa": 2.65,
+      "sv_percent": 0.898,
+      "min": 113,
+      "ga": 5
+    },
+    {
       "name": "Mattias Sholl",
       "gp": 22,
       "w": 8,
@@ -376,17 +387,6 @@
       "sv_percent": 0.911,
       "min": 1125,
       "ga": 52
-    },
-    {
-      "name": "Simon Latkoczy",
-      "gp": 2,
-      "w": 0,
-      "l": 1,
-      "otl": 0,
-      "gaa": 2.83,
-      "sv_percent": 0.889,
-      "min": 106,
-      "ga": 5
     },
     {
       "name": "Pierce Charleson",
