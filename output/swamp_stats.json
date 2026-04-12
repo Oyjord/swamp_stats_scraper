@@ -2,11 +2,11 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 59,
+      "gp": 60,
       "g": 26,
       "a": 23,
       "pts": 49,
-      "plus_minus": -7,
+      "plus_minus": -8,
       "pim": 24
     },
     {
@@ -29,20 +29,20 @@
     },
     {
       "name": "Neil Shea",
-      "gp": 48,
+      "gp": 49,
       "g": 10,
       "a": 24,
       "pts": 34,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 20
     },
     {
       "name": "Patrick Polino",
-      "gp": 65,
+      "gp": 66,
       "g": 10,
       "a": 20,
       "pts": 30,
-      "plus_minus": -19,
+      "plus_minus": -20,
       "pim": 27
     },
     {
@@ -254,11 +254,11 @@
     },
     {
       "name": "Parker Berge",
-      "gp": 62,
+      "gp": 63,
       "g": 8,
       "a": 15,
       "pts": 23,
-      "plus_minus": -10,
+      "plus_minus": -11,
       "pim": 47
     },
     {
@@ -272,11 +272,11 @@
     },
     {
       "name": "Tim Rego",
-      "gp": 29,
+      "gp": 30,
       "g": 5,
       "a": 5,
       "pts": 10,
-      "plus_minus": -6,
+      "plus_minus": -7,
       "pim": 2
     },
     {
@@ -390,7 +390,7 @@
     },
     {
       "name": "Pierce Charleson",
-      "gp": 25,
+      "gp": 26,
       "w": 8,
       "l": 11,
       "otl": 3,
