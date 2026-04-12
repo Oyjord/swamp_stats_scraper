@@ -2,47 +2,47 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 58,
+      "gp": 59,
       "g": 26,
-      "a": 22,
-      "pts": 48,
+      "a": 23,
+      "pts": 49,
       "plus_minus": -7,
       "pim": 24
     },
     {
       "name": "Denis Smirnov",
-      "gp": 63,
-      "g": 16,
+      "gp": 64,
+      "g": 17,
       "a": 23,
-      "pts": 39,
+      "pts": 40,
       "plus_minus": 6,
       "pim": 24
     },
     {
       "name": "Ryan O'Hara",
-      "gp": 67,
+      "gp": 68,
       "g": 14,
-      "a": 23,
-      "pts": 37,
+      "a": 24,
+      "pts": 38,
       "plus_minus": -1,
       "pim": 40
     },
     {
       "name": "Neil Shea",
-      "gp": 47,
+      "gp": 48,
       "g": 10,
       "a": 24,
       "pts": 34,
-      "plus_minus": -1,
-      "pim": 18
+      "plus_minus": -2,
+      "pim": 20
     },
     {
       "name": "Patrick Polino",
-      "gp": 64,
+      "gp": 65,
       "g": 10,
       "a": 20,
       "pts": 30,
-      "plus_minus": -18,
+      "plus_minus": -19,
       "pim": 27
     },
     {
@@ -199,6 +199,15 @@
       "pim": 2
     },
     {
+      "name": "Jake Percival",
+      "gp": 2,
+      "g": 1,
+      "a": 0,
+      "pts": 1,
+      "plus_minus": -1,
+      "pim": 2
+    },
+    {
       "name": "Stepan Timofeyev",
       "gp": 3,
       "g": 1,
@@ -215,15 +224,6 @@
       "pts": 0,
       "plus_minus": -1,
       "pim": 4
-    },
-    {
-      "name": "Jake Percival",
-      "gp": 1,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": -2,
-      "pim": 2
     },
     {
       "name": "Yaroslav Yevdokimov",
@@ -245,38 +245,38 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 67,
+      "gp": 68,
       "g": 6,
-      "a": 25,
-      "pts": 31,
-      "plus_minus": -12,
+      "a": 26,
+      "pts": 32,
+      "plus_minus": -11,
       "pim": 41
     },
     {
       "name": "Parker Berge",
-      "gp": 61,
+      "gp": 62,
       "g": 8,
       "a": 15,
       "pts": 23,
       "plus_minus": -10,
-      "pim": 45
+      "pim": 47
     },
     {
       "name": "Jake Murray",
-      "gp": 59,
+      "gp": 60,
       "g": 2,
       "a": 16,
       "pts": 18,
-      "plus_minus": 11,
+      "plus_minus": 10,
       "pim": 8
     },
     {
       "name": "Tim Rego",
-      "gp": 28,
+      "gp": 29,
       "g": 5,
       "a": 5,
       "pts": 10,
-      "plus_minus": -5,
+      "plus_minus": -6,
       "pim": 2
     },
     {
@@ -308,20 +308,20 @@
     },
     {
       "name": "Joe Prouty",
-      "gp": 5,
+      "gp": 6,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 0,
+      "plus_minus": 1,
       "pim": 2
     },
     {
       "name": "Michael Mastrodomenico",
-      "gp": 1,
+      "gp": 2,
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 2
     },
     {
@@ -378,6 +378,17 @@
       "ga": 52
     },
     {
+      "name": "Simon Latkoczy",
+      "gp": 2,
+      "w": 0,
+      "l": 1,
+      "otl": 0,
+      "gaa": 2.83,
+      "sv_percent": 0.889,
+      "min": 106,
+      "ga": 5
+    },
+    {
       "name": "Pierce Charleson",
       "gp": 25,
       "w": 8,
@@ -387,17 +398,6 @@
       "sv_percent": 0.883,
       "min": 1334,
       "ga": 72
-    },
-    {
-      "name": "Simon Latkoczy",
-      "gp": 1,
-      "w": 0,
-      "l": 1,
-      "otl": 0,
-      "gaa": 3.89,
-      "sv_percent": 0.87,
-      "min": 46,
-      "ga": 3
     }
   ]
 }
