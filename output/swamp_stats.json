@@ -2,12 +2,21 @@
   "skaters": [
     {
       "name": "Keaton Mastrodonato",
-      "gp": 61,
+      "gp": 62,
       "g": 26,
       "a": 24,
       "pts": 50,
-      "plus_minus": -9,
+      "plus_minus": -8,
       "pim": 24
+    },
+    {
+      "name": "Ryan O'Hara",
+      "gp": 71,
+      "g": 15,
+      "a": 26,
+      "pts": 41,
+      "plus_minus": 2,
+      "pim": 40
     },
     {
       "name": "Denis Smirnov",
@@ -19,21 +28,12 @@
       "pim": 26
     },
     {
-      "name": "Ryan O'Hara",
-      "gp": 70,
-      "g": 15,
-      "a": 25,
-      "pts": 40,
-      "plus_minus": 1,
-      "pim": 40
-    },
-    {
       "name": "Neil Shea",
       "gp": 51,
-      "g": 11,
+      "g": 12,
       "a": 25,
-      "pts": 36,
-      "plus_minus": -4,
+      "pts": 37,
+      "plus_minus": -3,
       "pim": 24
     },
     {
@@ -209,12 +209,12 @@
     },
     {
       "name": "Jake Percival",
-      "gp": 4,
+      "gp": 5,
       "g": 1,
       "a": 0,
       "pts": 1,
       "plus_minus": -1,
-      "pim": 2
+      "pim": 4
     },
     {
       "name": "Bryan Moore",
@@ -245,11 +245,11 @@
     },
     {
       "name": "Tim Lovell",
-      "gp": 70,
+      "gp": 71,
       "g": 6,
       "a": 26,
       "pts": 32,
-      "plus_minus": -12,
+      "plus_minus": -11,
       "pim": 43
     },
     {
@@ -319,9 +319,9 @@
       "name": "Michael Mastrodomenico",
       "gp": 5,
       "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": -5,
+      "a": 2,
+      "pts": 2,
+      "plus_minus": -4,
       "pim": 2
     },
     {
@@ -361,10 +361,10 @@
       "w": 0,
       "l": 1,
       "otl": 0,
-      "gaa": 2.06,
-      "sv_percent": 0.911,
-      "min": 146,
-      "ga": 5
+      "gaa": 2.14,
+      "sv_percent": 0.91,
+      "min": 168,
+      "ga": 6
     },
     {
       "name": "Isaiah Saville",
