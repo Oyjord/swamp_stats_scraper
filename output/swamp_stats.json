@@ -40,8 +40,8 @@
       "name": "Patrick Polino",
       "gp": 68,
       "g": 10,
-      "a": 22,
-      "pts": 32,
+      "a": 23,
+      "pts": 33,
       "plus_minus": -22,
       "pim": 27
     },
@@ -73,6 +73,15 @@
       "pim": 26
     },
     {
+      "name": "Ryan O'Reilly",
+      "gp": 71,
+      "g": 12,
+      "a": 12,
+      "pts": 24,
+      "plus_minus": -17,
+      "pim": 30
+    },
+    {
       "name": "Cam Hausinger",
       "gp": 50,
       "g": 13,
@@ -80,15 +89,6 @@
       "pts": 23,
       "plus_minus": -5,
       "pim": 63
-    },
-    {
-      "name": "Ryan O'Reilly",
-      "gp": 71,
-      "g": 12,
-      "a": 11,
-      "pts": 23,
-      "plus_minus": -17,
-      "pim": 28
     },
     {
       "name": "Kenta Isogai",
@@ -111,9 +111,9 @@
     {
       "name": "Jack Brackett",
       "gp": 68,
-      "g": 10,
+      "g": 11,
       "a": 2,
-      "pts": 12,
+      "pts": 13,
       "plus_minus": -5,
       "pim": 10
     },
@@ -249,7 +249,7 @@
       "g": 6,
       "a": 26,
       "pts": 32,
-      "plus_minus": -11,
+      "plus_minus": -10,
       "pim": 43
     },
     {
@@ -258,16 +258,16 @@
       "g": 8,
       "a": 15,
       "pts": 23,
-      "plus_minus": -15,
-      "pim": 49
+      "plus_minus": -16,
+      "pim": 51
     },
     {
       "name": "Jake Murray",
-      "gp": 62,
+      "gp": 63,
       "g": 2,
       "a": 18,
       "pts": 20,
-      "plus_minus": 15,
+      "plus_minus": 16,
       "pim": 8
     },
     {
@@ -321,7 +321,7 @@
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 2
     },
     {
@@ -361,10 +361,10 @@
       "w": 0,
       "l": 1,
       "otl": 0,
-      "gaa": 2.14,
-      "sv_percent": 0.91,
-      "min": 168,
-      "ga": 6
+      "gaa": 2.34,
+      "sv_percent": 0.9,
+      "min": 205,
+      "ga": 8
     },
     {
       "name": "Isaiah Saville",
