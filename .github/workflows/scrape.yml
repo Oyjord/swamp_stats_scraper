@@ -1,8 +1,8 @@
 name: Scrape Swamp Stats
 
 on:
-  schedule:
-  #  - cron: '0 */1 * * *'  # 6 AM PT daily
+#  schedule:
+#    - cron: '0 */1 * * *'  # 6 AM PT daily
   workflow_dispatch:
 
 jobs:
